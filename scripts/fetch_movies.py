@@ -2,44 +2,31 @@ import requests
 import json
 from datetime import datetime, timedelta
 
-API_KEY = 'a024a2c52f349da4cbceee0c4b82f066'
+# 请将此处替换为您的 TMDB API Key
+API_KEY = '你的_TMDB_API_KEY'
+# 设置地区：CN (中国内地), HK (香港)
+REGIONS = ['CN', 'HK']
 
 def fetch_movies():
     all_movies = []
+    # 获取当月和下个月的日期范围
     today = datetime.now()
-    # 抓取未来 90 天的数据，确保覆盖范围足够大
-    start_date = today.strftime('%Y-%m-%d')
-    end_date = (today + timedelta(days=90)).strftime('%Y-%m-%d')
+    start_date = today.strftime('%Y-%m-01')
+    # 简单计算下一个月的大概日期
+    end_date = (today.replace(day=28) + timedelta(days=7)).replace(day=28).strftime('%Y-%m-28')
 
-    # 我们直接使用 TMDB 的 "即将上映" 接口，它比 discover 接口更精准
-    # language=zh-CN 确保返回中文
-    url = f"https://api.themoviedb.org/3/movie/now_playing?api_key={API_KEY}&language=zh-CN&region=CN&page=1"
-    
-    try:
-        response = requests.get(url, timeout=10).json()
-        for movie in response.get('results', []):
-            release_date = movie.get('release_date')
-            if release_date:
-                all_movies.append({
-                    "title": movie.get('title', '未知') + " (CN)",
-                    "start": release_date,
-                    "url": f"https://www.themoviedb.org/movie/{movie['id']}"
-                })
+    for region in REGIONS:
+        url = f"https://api.themoviedb.org/3/discover/movie?api_key={API_KEY}&region={region}&release_date.gte={start_date}&release_date.lte={end_date}&sort_by=release_date.asc&language=zh-CN"
+        response = requests.get(url).json()
         
-        # 顺便获取一下香港的（稍微改一下 region 参数）
-        url_hk = f"https://api.themoviedb.org/3/movie/now_playing?api_key={API_KEY}&language=zh-CN&region=HK&page=1"
-        response_hk = requests.get(url_hk, timeout=10).json()
-        for movie in response_hk.get('results', []):
-            release_date = movie.get('release_date')
-            if release_date:
-                all_movies.append({
-                    "title": movie.get('title', '未知') + " (HK)",
-                    "start": release_date,
-                    "url": f"https://www.themoviedb.org/movie/{movie['id']}"
-                })
-    except Exception as e:
-        print(f"Error: {e}")
-
+        for movie in response.get('results', []):
+            all_movies.append({
+                "title": f"{movie['title']} ({region})",
+                "start": movie['release_date'],
+                "url": f"https://www.themoviedb.org/movie/{movie['id']}"
+            })
+    
+    # 将获取的数据保存为 JSON 文件，供网页读取
     with open('movies.json', 'w', encoding='utf-8') as f:
         json.dump(all_movies, f, ensure_ascii=False, indent=2)
 
