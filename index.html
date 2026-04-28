@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <meta charset='utf-8' />
+    <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.20/index.global.min.js'></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        var calendarEl = document.getElementById('calendar');
+        var calendar = new FullCalendar.Calendar(calendarEl, {
+          initialView: 'dayGridMonth',
+          // 这一行会读取你仓库里的 movies.json 数据
+          events: './movies.json',
+          eventClick: function(info) {
+            if (info.event.url) {
+              window.open(info.event.url, '_blank');
+              return false;
+            }
+          }
+        });
+        calendar.render();
+      });
+    </script>
+    <style>
+      #calendar { max-width: 900px; margin: 40px auto; }
+    </style>
+  </head>
+  <body>
+    <div id='calendar'></div>
+  </body>
+</html>
