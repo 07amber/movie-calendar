@@ -1,0 +1,26 @@
+name: Update Movie Calendar
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天凌晨 00:00 自动运行
+  workflow_dispatch: # 允许你手动点击按钮测试
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Install requests
+        run: pip install requests
+      - name: Run script
+        run: python scripts/fetch_movies.py
+      - name: Commit and push
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add movies.json
+          git commit -m "Auto update movies"
+          git push
