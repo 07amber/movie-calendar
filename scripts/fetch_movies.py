@@ -9,24 +9,31 @@ REGIONS = ['CN', 'HK']
 
 def fetch_movies():
     all_movies = []
-    # 获取当月和下个月的日期范围
+    # 获取当前日期
     today = datetime.now()
+    
+    # 明确设置起始日期为本月1号
     start_date = today.strftime('%Y-%m-01')
-    # 简单计算下一个月的大概日期
-    end_date = (today.replace(day=28) + timedelta(days=7)).replace(day=28).strftime('%Y-%m-28')
+    
+    # 将日期向前推，直接设置到下下个月的最后一天，确保覆盖范围足够广
+    # 这样可以一次性抓取约 60 天的数据（本月+下月）
+    end_date = (today + timedelta(days=60)).strftime('%Y-%m-%d')
 
     for region in REGIONS:
-        url = f"https://api.themoviedb.org/3/discover/movie?api_key={API_KEY}&region={region}&release_date.gte={start_date}&release_date.lte={end_date}&sort_by=release_date.asc&language=zh-CN"
+        # 修改 URL 参数，让日期跨度覆盖下个月
+        url = f"https://api.themoviedb.org/3/discover/movie?api_key={API_KEY}&region={region}&primary_release_date.gte={start_date}&primary_release_date.lte={end_date}&sort_by=release_date.asc&language=zh-CN"
+        
         response = requests.get(url).json()
         
         for movie in response.get('results', []):
-            all_movies.append({
-                "title": f"{movie['title']} ({region})",
-                "start": movie['release_date'],
-                "url": f"https://www.themoviedb.org/movie/{movie['id']}"
-            })
+            # 过滤掉日期为空的数据
+            if movie.get('release_date'):
+                all_movies.append({
+                    "title": f"{movie['title']} ({region})",
+                    "start": movie['release_date'],
+                    "url": f"https://www.themoviedb.org/movie/{movie['id']}"
+                })
     
-    # 将获取的数据保存为 JSON 文件，供网页读取
     with open('movies.json', 'w', encoding='utf-8') as f:
         json.dump(all_movies, f, ensure_ascii=False, indent=2)
 
