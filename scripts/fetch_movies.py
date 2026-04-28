@@ -1,29 +1,34 @@
-import urllib.request
+import requests
 import json
-import ssl
+from datetime import datetime, timedelta
 
-# 忽略 SSL 证书检查，防止网络错误
-ssl._create_default_https_context = ssl._create_unverified_context
-
-API_KEY = 'a024a2c52f349da4cbceee0c4b82f066' # 务必填入你的实际 Key
+# 请将此处替换为您的 TMDB API Key
+API_KEY = 'a024a2c52f349da4cbceee0c4b82f066'
+# 设置地区：CN (中国内地), HK (香港)
+REGIONS = ['CN', 'HK']
 
 def fetch_movies():
-    url = f"https://api.themoviedb.org/3/movie/now_playing?api_key={API_KEY}&language=zh-CN&region=CN&page=1"
+    all_movies = []
+    # 获取当月和下个月的日期范围
+    today = datetime.now()
+    start_date = today.strftime('%Y-%m-01')
+    # 简单计算下一个月的大概日期
+    end_date = (today.replace(day=28) + timedelta(days=7)).replace(day=28).strftime('%Y-%m-28')
+
+    for region in REGIONS:
+        url = f"https://api.themoviedb.org/3/discover/movie?api_key={API_KEY}&region={region}&release_date.gte={start_date}&release_date.lte={end_date}&sort_by=release_date.asc&language=zh-CN"
+        response = requests.get(url).json()
+        
+        for movie in response.get('results', []):
+            all_movies.append({
+                "title": f"{movie['title']} ({region})",
+                "start": movie['release_date'],
+                "url": f"https://www.themoviedb.org/movie/{movie['id']}"
+            })
     
-    print(f"尝试访问 URL: {url.replace(API_KEY, 'HIDDEN')}")
-    
-    try:
-        with urllib.request.urlopen(url, timeout=10) as response:
-            body = response.read().decode('utf-8')
-            data = json.loads(body)
-            print(f"抓取成功，共找到 {len(data.get('results', []))} 部电影")
-            
-            # 把结果写入 movies.json
-            with open('movies.json', 'w', encoding='utf-8') as f:
-                json.dump(data.get('results', []), f, ensure_ascii=False, indent=2)
-                
-    except Exception as e:
-        print(f"【重大错误】抓取失败: {str(e)}")
+    # 将获取的数据保存为 JSON 文件，供网页读取
+    with open('movies.json', 'w', encoding='utf-8') as f:
+        json.dump(all_movies, f, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
     fetch_movies()
