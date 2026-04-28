@@ -5,7 +5,7 @@ import ssl
 # 忽略 SSL 证书检查，防止网络错误
 ssl._create_default_https_context = ssl._create_unverified_context
 
-API_KEY = '你的_TMDB_API_KEY' # 务必填入你的实际 Key
+API_KEY = 'a024a2c52f349da4cbceee0c4b82f066' # 务必填入你的实际 Key
 
 def fetch_movies():
     url = f"https://api.themoviedb.org/3/movie/now_playing?api_key={API_KEY}&language=zh-CN&region=CN&page=1"
