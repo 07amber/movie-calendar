@@ -8,8 +8,22 @@
         var calendarEl = document.getElementById('calendar');
         var calendar = new FullCalendar.Calendar(calendarEl, {
           initialView: 'dayGridMonth',
-          // 这一行会读取你仓库里的 movies.json 数据
-          events: './movies.json',
+          // 读取你的数据
+          events: {
+            url: './movies.json',
+            method: 'GET',
+            failure: function() {
+              alert('读取 movies.json 失败！请检查文件路径或格式。');
+            }
+          },
+          // 确保字段映射正确
+          eventDataTransform: function(eventData) {
+            return {
+              title: eventData.title,
+              start: eventData.start,
+              url: eventData.url
+            };
+          },
           eventClick: function(info) {
             if (info.event.url) {
               window.open(info.event.url, '_blank');
