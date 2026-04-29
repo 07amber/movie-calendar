@@ -1,87 +1,44 @@
 <!DOCTYPE html>
-
 <html lang='en'>
-
   <head>
-
     <meta charset='utf-8' />
-
     <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.20/index.global.min.js'></script>
-
     <script>
-
       document.addEventListener('DOMContentLoaded', function() {
-
         var calendarEl = document.getElementById('calendar');
-
         var calendar = new FullCalendar.Calendar(calendarEl, {
-
           initialView: 'dayGridMonth',
-
           // 读取你的数据
-
           events: {
-
             url: './movies.json',
-
             method: 'GET',
-
             failure: function() {
-
               alert('读取 movies.json 失败！请检查文件路径或格式。');
-
             }
-
           },
-
           // 确保字段映射正确
-
           eventDataTransform: function(eventData) {
-
             return {
-
               title: eventData.title,
-
               start: eventData.start,
-
               url: eventData.url
-
             };
-
           },
-
           eventClick: function(info) {
-
             if (info.event.url) {
-
               window.open(info.event.url, '_blank');
-
               return false;
-
             }
-
           }
-
         });
-
         calendar.render();
-
       });
-
     </script>
-
     <style>
-
       #calendar { max-width: 900px; margin: 40px auto; }
-
     </style>
-
   </head>
-
   <body>
-
     <div id='calendar'></div>
-
   </body>
-
 </html>
