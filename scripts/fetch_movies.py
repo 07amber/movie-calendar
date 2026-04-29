@@ -2,7 +2,7 @@ import requests
 import json
 from datetime import datetime, timedelta
 
-API_KEY = '你的_TMDB_API_KEY'
+API_KEY = 'a024a2c52f349da4cbceee0c4b82f066'
 REGIONS = ['CN', 'HK']
 
 def get_date_range():
