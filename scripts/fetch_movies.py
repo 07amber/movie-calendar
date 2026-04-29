@@ -2,33 +2,48 @@ import requests
 import json
 from datetime import datetime, timedelta
 
-# 请将此处替换为您的 TMDB API Key
-API_KEY = 'a024a2c52f349da4cbceee0c4b82f066'
-# 设置地区：CN (中国内地), HK (香港)
+API_KEY = '你的_TMDB_API_KEY'
 REGIONS = ['CN', 'HK']
+
+def get_date_range():
+    # 获取今天并计算下个月底的日期
+    today = datetime.now()
+    start_date = today.strftime('%Y-%m-%d')
+    next_month = (today.replace(day=28) + timedelta(days=4))
+    last_day_of_next_month = (next_month.replace(day=28) + timedelta(days=4)).replace(day=1) - timedelta(days=1)
+    return today, last_day_of_next_month
 
 def fetch_movies():
     all_movies = []
-    # 获取当月和下个月的日期范围
-    today = datetime.now()
-    start_date = today.strftime('%Y-%m-01')
-    # 简单计算下一个月的大概日期
-    end_date = (today.replace(day=28) + timedelta(days=7)).replace(day=28).strftime('%Y-%m-28')
-
-    for region in REGIONS:
-        url = f"https://api.themoviedb.org/3/discover/movie?api_key={API_KEY}&region={region}&release_date.gte={start_date}&release_date.lte={end_date}&sort_by=release_date.asc&language=zh-CN"
-        response = requests.get(url).json()
-        
-        for movie in response.get('results', []):
-            all_movies.append({
-                "title": f"{movie['title']} ({region})",
-                "start": movie['release_date'],
-                "url": f"https://www.themoviedb.org/movie/{movie['id']}"
-            })
+    start_date_obj, end_date_obj = get_date_range()
     
-    # 将获取的数据保存为 JSON 文件，供网页读取
+    for region in REGIONS:
+        # 使用 upcoming 接口获取该地区影院即将上映的影片
+        url = f"https://api.themoviedb.org/3/movie/upcoming?api_key={API_KEY}&language=zh-CN&region={region}&page=1"
+        
+        try:
+            response = requests.get(url, timeout=10).json()
+            for movie in response.get('results', []):
+                release_date_str = movie.get('release_date')
+                if release_date_obj := (datetime.strptime(release_date_str, '%Y-%m-%d') if release_date_str else None):
+                    
+                    # 核心结合点：在 API 返回的基础上，进行 Python 代码层面的日期区间过滤
+                    # 确保日期在今天之后，且在下个月底之前
+                    if start_date_obj <= release_date_obj <= end_date_obj:
+                        all_movies.append({
+                            "title": f"{movie.get('title')} ({region})",
+                            "start": release_date_str,
+                            "url": f"https://www.themoviedb.org/movie/{movie.get('id')}"
+                        })
+        except Exception as e:
+            print(f"Error fetching {region}: {e}")
+            
+    # 去重并按日期排序
+    unique_movies = {m['title'] + m['start']: m for m in all_movies}.values()
+    sorted_movies = sorted(unique_movies, key=lambda x: x['start'])
+            
     with open('movies.json', 'w', encoding='utf-8') as f:
-        json.dump(all_movies, f, ensure_ascii=False, indent=2)
+        json.dump(list(sorted_movies), f, ensure_ascii=False, indent=2)
 
 if __name__ == "__main__":
     fetch_movies()
