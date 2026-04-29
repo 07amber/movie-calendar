@@ -8,7 +8,7 @@
         var calendarEl = document.getElementById('calendar');
         var calendar = new FullCalendar.Calendar(calendarEl, {
           initialView: 'dayGridMonth',
-          // 读取你的数据
+          // 数据读取配置保持不变
           events: {
             url: './movies.json',
             method: 'GET',
@@ -16,7 +16,11 @@
               alert('读取 movies.json 失败！请检查文件路径或格式。');
             }
           },
-          // 确保字段映射正确
+          // --- 新增配置，解决显示不全 ---
+          dayMaxEvents: false,    // 禁止截断，显示所有名字
+          eventDisplay: 'block',  // 让事件以块状显示
+          // ----------------------------
+          
           eventDataTransform: function(eventData) {
             return {
               title: eventData.title,
@@ -36,6 +40,13 @@
     </script>
     <style>
       #calendar { max-width: 900px; margin: 40px auto; }
+      
+      /* 新增样式：强制电影名字自动换行 */
+      .fc-event-title {
+        white-space: normal !important;
+        word-break: break-all;
+        line-height: 1.2;
+      }
     </style>
   </head>
   <body>
