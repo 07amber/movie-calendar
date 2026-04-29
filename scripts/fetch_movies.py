@@ -6,39 +6,38 @@ API_KEY = 'a024a2c52f349da4cbceee0c4b82f066'
 REGIONS = ['CN', 'HK']
 
 def get_date_range():
-    # 获取今天并计算下个月底的日期
     today = datetime.now()
-    start_date = today.strftime('%Y-%m-%d')
+    # 起始日期设为当月 1 号，确保抓取当月完整数据
+    start_date = today.replace(day=1).strftime('%Y-%m-%d')
+    # 截止日期：计算到下个月底
     next_month = (today.replace(day=28) + timedelta(days=4))
     last_day_of_next_month = (next_month.replace(day=28) + timedelta(days=4)).replace(day=1) - timedelta(days=1)
-    return today, last_day_of_next_month
+    return start_date, last_day_of_next_month.strftime('%Y-%m-%d')
 
 def fetch_movies():
     all_movies = []
-    start_date_obj, end_date_obj = get_date_range()
+    start_date, end_date = get_date_range()
     
     for region in REGIONS:
-        # 使用 upcoming 接口获取该地区影院即将上映的影片
-        url = f"https://api.themoviedb.org/3/movie/upcoming?api_key={API_KEY}&language=zh-CN&region={region}&page=1"
-        
-        try:
-            response = requests.get(url, timeout=10).json()
-            for movie in response.get('results', []):
-                release_date_str = movie.get('release_date')
-                if release_date_obj := (datetime.strptime(release_date_str, '%Y-%m-%d') if release_date_str else None):
-                    
-                    # 核心结合点：在 API 返回的基础上，进行 Python 代码层面的日期区间过滤
-                    # 确保日期在今天之后，且在下个月底之前
-                    if start_date_obj <= release_date_obj <= end_date_obj:
-                        all_movies.append({
-                            "title": f"{movie.get('title')} ({region})",
-                            "start": release_date_str,
-                            "url": f"https://www.themoviedb.org/movie/{movie.get('id')}"
-                        })
-        except Exception as e:
-            print(f"Error fetching {region}: {e}")
+        # 增加页码循环，抓取前 3 页数据以保证数据量完整
+        for page in range(1, 4):
+            url = f"https://api.themoviedb.org/3/discover/movie?api_key={API_KEY}&language=zh-CN&region={region}&primary_release_date.gte={start_date}&primary_release_date.lte={end_date}&sort_by=primary_release_date.asc&page={page}"
             
-    # 去重并按日期排序
+            try:
+                response = requests.get(url, timeout=10).json()
+                results = response.get('results', [])
+                if not results: break # 如果没数据了直接跳出
+                
+                for movie in results:
+                    all_movies.append({
+                        "title": f"{movie.get('title')} ({region})",
+                        "start": movie.get('release_date'),
+                        "url": f"https://www.themoviedb.org/movie/{movie.get('id')}"
+                    })
+            except Exception as e:
+                print(f"Error: {e}")
+            
+    # 去重并排序
     unique_movies = {m['title'] + m['start']: m for m in all_movies}.values()
     sorted_movies = sorted(unique_movies, key=lambda x: x['start'])
             
