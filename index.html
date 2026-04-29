@@ -1,55 +1,87 @@
 <!DOCTYPE html>
+
 <html lang='en'>
+
   <head>
+
     <meta charset='utf-8' />
+
     <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.20/index.global.min.js'></script>
+
     <script>
+
       document.addEventListener('DOMContentLoaded', function() {
+
         var calendarEl = document.getElementById('calendar');
+
         var calendar = new FullCalendar.Calendar(calendarEl, {
+
           initialView: 'dayGridMonth',
-          // 数据读取配置保持不变
+
+          // 读取你的数据
+
           events: {
+
             url: './movies.json',
+
             method: 'GET',
+
             failure: function() {
+
               alert('读取 movies.json 失败！请检查文件路径或格式。');
+
             }
+
           },
-          // --- 新增配置，解决显示不全 ---
-          dayMaxEvents: false,    // 禁止截断，显示所有名字
-          eventDisplay: 'block',  // 让事件以块状显示
-          // ----------------------------
-          
+
+          // 确保字段映射正确
+
           eventDataTransform: function(eventData) {
+
             return {
+
               title: eventData.title,
+
               start: eventData.start,
+
               url: eventData.url
+
             };
+
           },
+
           eventClick: function(info) {
+
             if (info.event.url) {
+
               window.open(info.event.url, '_blank');
+
               return false;
+
             }
+
           }
+
         });
+
         calendar.render();
+
       });
+
     </script>
+
     <style>
+
       #calendar { max-width: 900px; margin: 40px auto; }
-      
-      /* 新增样式：强制电影名字自动换行 */
-      .fc-event-title {
-        white-space: normal !important;
-        word-break: break-all;
-        line-height: 1.2;
-      }
+
     </style>
+
   </head>
+
   <body>
+
     <div id='calendar'></div>
+
   </body>
+
 </html>
