@@ -1,8 +1,18 @@
 [
   {
-    "title": "Le temps après eux (CN)",
+    "title": "AC OS (CN)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1687109"
+    "url": "https://www.themoviedb.org/movie/1687678"
+  },
+  {
+    "title": "Cómo entrenar tu cerebro (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1687541"
+  },
+  {
+    "title": "The Comfort Killer (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1687446"
   },
   {
     "title": "Bi-Coastal (CN)",
@@ -180,7 +190,7 @@
     "url": "https://www.themoviedb.org/movie/1684928"
   },
   {
-    "title": "Should I Marry a Murderer (CN)",
+    "title": "Should I Marry a Murderer? (CN)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1684918"
   },
@@ -290,19 +300,19 @@
     "url": "https://www.themoviedb.org/movie/1676780"
   },
   {
-    "title": "Coach of the Year (CN)",
+    "title": "AC OS (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1676341"
+    "url": "https://www.themoviedb.org/movie/1687678"
   },
   {
-    "title": "狼牙行动 (CN)",
+    "title": "Cómo entrenar tu cerebro (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1674632"
+    "url": "https://www.themoviedb.org/movie/1687541"
   },
   {
-    "title": "Le temps après eux (HK)",
+    "title": "The Comfort Killer (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1687109"
+    "url": "https://www.themoviedb.org/movie/1687446"
   },
   {
     "title": "Bi-Coastal (HK)",
@@ -480,7 +490,7 @@
     "url": "https://www.themoviedb.org/movie/1684928"
   },
   {
-    "title": "Should I Marry a Murderer (HK)",
+    "title": "Should I Marry a Murderer? (HK)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1684918"
   },
@@ -588,15 +598,5 @@
     "title": "Cruz (HK)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1676780"
-  },
-  {
-    "title": "Coach of the Year (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1676341"
-  },
-  {
-    "title": "狼牙行动 (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1674632"
   }
 ]
