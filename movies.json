@@ -1,5 +1,25 @@
 [
   {
+    "title": "Star Wars: Heir to the Empire (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1688179"
+  },
+  {
+    "title": "KOMMUNIST KAR KOMMANDOS (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1688138"
+  },
+  {
+    "title": "The Sullivan Stories (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1688130"
+  },
+  {
+    "title": "Kaygısız Baş (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1688005"
+  },
+  {
     "title": "AC OS (CN)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1687678"
@@ -13,6 +33,11 @@
     "title": "The Comfort Killer (CN)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1687446"
+  },
+  {
+    "title": "Don’t Move (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1687159"
   },
   {
     "title": "Bi-Coastal (CN)",
@@ -63,6 +88,11 @@
     "title": "The Fields (CN)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1686317"
+  },
+  {
+    "title": "Rift (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1686277"
   },
   {
     "title": "No Supers (CN)",
@@ -128,6 +158,11 @@
     "title": "What Happens Next? (CN)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1685835"
+  },
+  {
+    "title": "Odds On (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1685822"
   },
   {
     "title": "figure:09, live at st mary's (CN)",
@@ -265,39 +300,24 @@
     "url": "https://www.themoviedb.org/movie/1679310"
   },
   {
-    "title": "Side Effects (CN)",
+    "title": "Star Wars: Heir to the Empire (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1679300"
+    "url": "https://www.themoviedb.org/movie/1688179"
   },
   {
-    "title": "Solace (CN)",
+    "title": "KOMMUNIST KAR KOMMANDOS (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1679288"
+    "url": "https://www.themoviedb.org/movie/1688138"
   },
   {
-    "title": "The Space Between (CN)",
+    "title": "The Sullivan Stories (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1679066"
+    "url": "https://www.themoviedb.org/movie/1688130"
   },
   {
-    "title": "Penguin Island (CN)",
+    "title": "Kaygısız Baş (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1678907"
-  },
-  {
-    "title": "That Orange Fellow (CN)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1678454"
-  },
-  {
-    "title": "Burst Bubbles (CN)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1677374"
-  },
-  {
-    "title": "Cruz (CN)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1676780"
+    "url": "https://www.themoviedb.org/movie/1688005"
   },
   {
     "title": "AC OS (HK)",
@@ -313,6 +333,11 @@
     "title": "The Comfort Killer (HK)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1687446"
+  },
+  {
+    "title": "Don’t Move (HK)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1687159"
   },
   {
     "title": "Bi-Coastal (HK)",
@@ -363,6 +388,11 @@
     "title": "The Fields (HK)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1686317"
+  },
+  {
+    "title": "Rift (HK)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1686277"
   },
   {
     "title": "No Supers (HK)",
@@ -428,6 +458,11 @@
     "title": "What Happens Next? (HK)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1685835"
+  },
+  {
+    "title": "Odds On (HK)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1685822"
   },
   {
     "title": "figure:09, live at st mary's (HK)",
@@ -563,40 +598,5 @@
     "title": "You Send Me (HK)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1679310"
-  },
-  {
-    "title": "Side Effects (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1679300"
-  },
-  {
-    "title": "Solace (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1679288"
-  },
-  {
-    "title": "The Space Between (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1679066"
-  },
-  {
-    "title": "Penguin Island (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1678907"
-  },
-  {
-    "title": "That Orange Fellow (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1678454"
-  },
-  {
-    "title": "Burst Bubbles (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1677374"
-  },
-  {
-    "title": "Cruz (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1676780"
   }
 ]
