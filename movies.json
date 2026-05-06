@@ -1,8 +1,28 @@
 [
   {
+    "title": "Godsmack: Live At Mohegan Sun (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1688405"
+  },
+  {
+    "title": "Upon Her Lips: Kiss Me (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1688365"
+  },
+  {
+    "title": "One Wish Willow: An Obsession Parody (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1688355"
+  },
+  {
     "title": "Star Wars: Heir to the Empire (CN)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1688179"
+  },
+  {
+    "title": "Dolly (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1688152"
   },
   {
     "title": "KOMMUNIST KAR KOMMANDOS (CN)",
@@ -20,7 +40,7 @@
     "url": "https://www.themoviedb.org/movie/1688005"
   },
   {
-    "title": "AC OS (CN)",
+    "title": "AC: OS (CN)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1687678"
   },
@@ -133,6 +153,11 @@
     "title": "神秘美人鱼2之虐心爱恋 (CN)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1686109"
+  },
+  {
+    "title": "Aval (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1686046"
   },
   {
     "title": "V/C/R (CN)",
@@ -275,34 +300,29 @@
     "url": "https://www.themoviedb.org/movie/1683168"
   },
   {
-    "title": "Para Mañana (CN)",
+    "title": "Godsmack: Live At Mohegan Sun (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1682647"
+    "url": "https://www.themoviedb.org/movie/1688405"
   },
   {
-    "title": "Yekokebu Sew (CN)",
+    "title": "Upon Her Lips: Kiss Me (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1682356"
+    "url": "https://www.themoviedb.org/movie/1688365"
   },
   {
-    "title": "Eva and Alfie (CN)",
+    "title": "One Wish Willow: An Obsession Parody (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1681365"
-  },
-  {
-    "title": "Everything That Happens After (CN)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1680848"
-  },
-  {
-    "title": "You Send Me (CN)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1679310"
+    "url": "https://www.themoviedb.org/movie/1688355"
   },
   {
     "title": "Star Wars: Heir to the Empire (HK)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1688179"
+  },
+  {
+    "title": "Dolly (HK)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1688152"
   },
   {
     "title": "KOMMUNIST KAR KOMMANDOS (HK)",
@@ -320,7 +340,7 @@
     "url": "https://www.themoviedb.org/movie/1688005"
   },
   {
-    "title": "AC OS (HK)",
+    "title": "AC: OS (HK)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1687678"
   },
@@ -433,6 +453,11 @@
     "title": "神秘美人鱼2之虐心爱恋 (HK)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1686109"
+  },
+  {
+    "title": "Aval (HK)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1686046"
   },
   {
     "title": "V/C/R (HK)",
@@ -573,30 +598,5 @@
     "title": "Geist (HK)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1683168"
-  },
-  {
-    "title": "Para Mañana (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1682647"
-  },
-  {
-    "title": "Yekokebu Sew (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1682356"
-  },
-  {
-    "title": "Eva and Alfie (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1681365"
-  },
-  {
-    "title": "Everything That Happens After (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1680848"
-  },
-  {
-    "title": "You Send Me (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1679310"
   }
 ]
