@@ -1,5 +1,25 @@
 [
   {
+    "title": "Terror - A Deeper Struggle (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1690924"
+  },
+  {
+    "title": "باب بنات (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1690537"
+  },
+  {
+    "title": "Glass (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1690518"
+  },
+  {
+    "title": "Now Days (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1690399"
+  },
+  {
     "title": "The Forlorn Tree (CN)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1690008"
@@ -23,6 +43,11 @@
     "title": "Who's behind the door ?(The topic) (CN)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1689675"
+  },
+  {
+    "title": "Любовь и голубые (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1688566"
   },
   {
     "title": "Godsmack: Live At Mohegan Sun (CN)",
@@ -275,34 +300,54 @@
     "url": "https://www.themoviedb.org/movie/1685010"
   },
   {
-    "title": "Brother, Sister and The Vampire (CN)",
+    "title": "Terror - A Deeper Struggle (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1684928"
+    "url": "https://www.themoviedb.org/movie/1690924"
   },
   {
-    "title": "Should I Marry a Murderer? (CN)",
+    "title": "باب بنات (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1684918"
+    "url": "https://www.themoviedb.org/movie/1690537"
   },
   {
-    "title": "El Sentido del Pingüino (CN)",
+    "title": "Glass (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1684840"
+    "url": "https://www.themoviedb.org/movie/1690518"
   },
   {
-    "title": "27 Days Later (CN)",
+    "title": "Now Days (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1684814"
+    "url": "https://www.themoviedb.org/movie/1690399"
   },
   {
-    "title": "A Tree Without Roots (CN)",
+    "title": "The Forlorn Tree (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1684805"
+    "url": "https://www.themoviedb.org/movie/1690008"
+  },
+  {
+    "title": "Walking Choir (HK)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1689928"
+  },
+  {
+    "title": "The Cat's House (HK)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1689911"
+  },
+  {
+    "title": "The Unspoken (HK)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1689764"
   },
   {
     "title": "Who's behind the door ?(The topic) (HK)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1689675"
+  },
+  {
+    "title": "Любовь и голубые (HK)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1688566"
   },
   {
     "title": "Godsmack: Live At Mohegan Sun (HK)",
@@ -553,30 +598,5 @@
     "title": "My Uncle Has a Tape (HK)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1685010"
-  },
-  {
-    "title": "Brother, Sister and The Vampire (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1684928"
-  },
-  {
-    "title": "Should I Marry a Murderer? (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1684918"
-  },
-  {
-    "title": "El Sentido del Pingüino (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1684840"
-  },
-  {
-    "title": "27 Days Later (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1684814"
-  },
-  {
-    "title": "A Tree Without Roots (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1684805"
   }
 ]
