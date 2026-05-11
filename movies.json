@@ -1,5 +1,20 @@
 [
   {
+    "title": "San Francisco Rising (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1692138"
+  },
+  {
+    "title": "Trad Treasures: Jimmy Hutchison (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1691940"
+  },
+  {
+    "title": "Gold from Dust (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1691806"
+  },
+  {
     "title": "Notun Premer Gaan (CN)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1691182"
@@ -285,19 +300,19 @@
     "url": "https://www.themoviedb.org/movie/1685489"
   },
   {
-    "title": "Metanoia (CN)",
+    "title": "San Francisco Rising (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1685487"
+    "url": "https://www.themoviedb.org/movie/1692138"
   },
   {
-    "title": "Aperture (CN)",
+    "title": "Trad Treasures: Jimmy Hutchison (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1685460"
+    "url": "https://www.themoviedb.org/movie/1691940"
   },
   {
-    "title": "Did I Wait Too Long? (CN)",
+    "title": "Gold from Dust (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1685074"
+    "url": "https://www.themoviedb.org/movie/1691806"
   },
   {
     "title": "Notun Premer Gaan (HK)",
@@ -583,20 +598,5 @@
     "title": "Veganzz (HK)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1685489"
-  },
-  {
-    "title": "Metanoia (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1685487"
-  },
-  {
-    "title": "Aperture (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1685460"
-  },
-  {
-    "title": "Did I Wait Too Long? (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1685074"
   }
 ]
