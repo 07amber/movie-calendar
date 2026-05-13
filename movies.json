@@ -1,8 +1,18 @@
 [
   {
+    "title": "Aversion Therapy (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1693101"
+  },
+  {
     "title": "GCW: Express Lane 2026 (CN)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1692747"
+  },
+  {
+    "title": "Hotel Eden (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1692295"
   },
   {
     "title": "San Francisco Rising (CN)",
@@ -13,6 +23,11 @@
     "title": "Ruby (CN)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1692068"
+  },
+  {
+    "title": "拂晓计划 (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1691986"
   },
   {
     "title": "Trad Treasures: Jimmy Hutchison (CN)",
@@ -285,24 +300,19 @@
     "url": "https://www.themoviedb.org/movie/1685777"
   },
   {
-    "title": "figure:09, live at st mary's (CN)",
+    "title": "Aversion Therapy (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1685762"
-  },
-  {
-    "title": "I Have no Eyes nor Form (CN)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1685758"
-  },
-  {
-    "title": "Concert pour l´Europe 2026 Avec les Berliner Philharmoniker (CN)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1685657"
+    "url": "https://www.themoviedb.org/movie/1693101"
   },
   {
     "title": "GCW: Express Lane 2026 (HK)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1692747"
+  },
+  {
+    "title": "Hotel Eden (HK)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1692295"
   },
   {
     "title": "San Francisco Rising (HK)",
@@ -313,6 +323,11 @@
     "title": "Ruby (HK)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1692068"
+  },
+  {
+    "title": "拂晓计划 (HK)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1691986"
   },
   {
     "title": "Trad Treasures: Jimmy Hutchison (HK)",
@@ -583,20 +598,5 @@
     "title": "(Not That You'd Answer, but) Are You Ok? (HK)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1685777"
-  },
-  {
-    "title": "figure:09, live at st mary's (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1685762"
-  },
-  {
-    "title": "I Have no Eyes nor Form (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1685758"
-  },
-  {
-    "title": "Concert pour l´Europe 2026 Avec les Berliner Philharmoniker (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1685657"
   }
 ]
