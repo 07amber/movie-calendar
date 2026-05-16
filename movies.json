@@ -1,5 +1,25 @@
 [
   {
+    "title": "Demon Clown Doll (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1695936"
+  },
+  {
+    "title": "Bogged (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1695933"
+  },
+  {
+    "title": "Puppet Master Playtime (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1695927"
+  },
+  {
+    "title": "Ancient Underwater Marvels: Evidence of Atlantis (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1695887"
+  },
+  {
     "title": "Stratford Festival: A Midsummer Night’s Dream (CN)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1694330"
@@ -165,6 +185,11 @@
     "url": "https://www.themoviedb.org/movie/1687446"
   },
   {
+    "title": "Trial 670 (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1687402"
+  },
+  {
     "title": "Don’t Move (CN)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1687159"
@@ -275,29 +300,24 @@
     "url": "https://www.themoviedb.org/movie/1686046"
   },
   {
-    "title": "V/C/R (CN)",
+    "title": "Demon Clown Doll (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1686035"
+    "url": "https://www.themoviedb.org/movie/1695936"
   },
   {
-    "title": "До Луны и обратно (CN)",
+    "title": "Bogged (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1685932"
+    "url": "https://www.themoviedb.org/movie/1695933"
   },
   {
-    "title": "Buried Under Years of Dust (CN)",
+    "title": "Puppet Master Playtime (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1685927"
+    "url": "https://www.themoviedb.org/movie/1695927"
   },
   {
-    "title": "When I Get Home (CN)",
+    "title": "Ancient Underwater Marvels: Evidence of Atlantis (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1685859"
-  },
-  {
-    "title": "What Happens Next? (CN)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1685835"
+    "url": "https://www.themoviedb.org/movie/1695887"
   },
   {
     "title": "Stratford Festival: A Midsummer Night’s Dream (HK)",
@@ -465,6 +485,11 @@
     "url": "https://www.themoviedb.org/movie/1687446"
   },
   {
+    "title": "Trial 670 (HK)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1687402"
+  },
+  {
     "title": "Don’t Move (HK)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1687159"
@@ -573,30 +598,5 @@
     "title": "Aval (HK)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1686046"
-  },
-  {
-    "title": "V/C/R (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1686035"
-  },
-  {
-    "title": "До Луны и обратно (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1685932"
-  },
-  {
-    "title": "Buried Under Years of Dust (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1685927"
-  },
-  {
-    "title": "When I Get Home (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1685859"
-  },
-  {
-    "title": "What Happens Next? (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1685835"
   }
 ]
