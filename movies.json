@@ -1,5 +1,10 @@
 [
   {
+    "title": "El rostro de este mirar (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1700473"
+  },
+  {
     "title": "O Conceito de Fim do Mundo (CN)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1699266"
@@ -295,9 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1686112"
   },
   {
-    "title": "神秘美人鱼2之虐心爱恋 (CN)",
+    "title": "El rostro de este mirar (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1686109"
+    "url": "https://www.themoviedb.org/movie/1700473"
   },
   {
     "title": "O Conceito de Fim do Mundo (HK)",
@@ -593,10 +598,5 @@
     "title": "IA, au cœur du cinéma (HK)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1686112"
-  },
-  {
-    "title": "神秘美人鱼2之虐心爱恋 (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1686109"
   }
 ]
