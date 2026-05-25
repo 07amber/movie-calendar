@@ -1,5 +1,10 @@
 [
   {
+    "title": "Eye Swap (CN)",
+    "start": "2026-05-01",
+    "url": "https://www.themoviedb.org/movie/1701345"
+  },
+  {
     "title": "Kuyunun Dibinde Bir Mavi Leke (CN)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1701054"
@@ -295,9 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1686177"
   },
   {
-    "title": "Spider Eggs: The Band (not the show) The Movie (CN)",
+    "title": "Eye Swap (HK)",
     "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1686152"
+    "url": "https://www.themoviedb.org/movie/1701345"
   },
   {
     "title": "Kuyunun Dibinde Bir Mavi Leke (HK)",
@@ -593,10 +598,5 @@
     "title": "Поехали домой (HK)",
     "start": "2026-05-01",
     "url": "https://www.themoviedb.org/movie/1686177"
-  },
-  {
-    "title": "Spider Eggs: The Band (not the show) The Movie (HK)",
-    "start": "2026-05-01",
-    "url": "https://www.themoviedb.org/movie/1686152"
   }
 ]
