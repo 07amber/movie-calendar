@@ -1,5 +1,10 @@
 [
   {
+    "title": "Redhorn (CN)",
+    "start": "2026-06-01",
+    "url": "https://www.themoviedb.org/movie/1707349"
+  },
+  {
     "title": "Spirit Board: Doorway to Death (CN)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1707268"
@@ -113,6 +118,11 @@
     "title": "Hate That I Made You Love Me (CN)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1705643"
+  },
+  {
+    "title": "Katharsis (CN)",
+    "start": "2026-06-01",
+    "url": "https://www.themoviedb.org/movie/1705532"
   },
   {
     "title": "Scab (CN)",
@@ -290,14 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1692810"
   },
   {
-    "title": "Video Hearts (CN)",
+    "title": "Redhorn (HK)",
     "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1692782"
-  },
-  {
-    "title": "It Was Just an Accident (CN)",
-    "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1691860"
+    "url": "https://www.themoviedb.org/movie/1707349"
   },
   {
     "title": "Spirit Board: Doorway to Death (HK)",
@@ -413,6 +418,11 @@
     "title": "Hate That I Made You Love Me (HK)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1705643"
+  },
+  {
+    "title": "Katharsis (HK)",
+    "start": "2026-06-01",
+    "url": "https://www.themoviedb.org/movie/1705532"
   },
   {
     "title": "Scab (HK)",
@@ -588,15 +598,5 @@
     "title": "My Willow (HK)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1692810"
-  },
-  {
-    "title": "Video Hearts (HK)",
-    "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1692782"
-  },
-  {
-    "title": "It Was Just an Accident (HK)",
-    "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1691860"
   }
 ]
