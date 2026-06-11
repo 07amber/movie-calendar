@@ -55,6 +55,11 @@
     "url": "https://www.themoviedb.org/movie/1710011"
   },
   {
+    "title": "Made With Love (CN)",
+    "start": "2026-06-01",
+    "url": "https://www.themoviedb.org/movie/1709976"
+  },
+  {
     "title": "L'Homme, le Corps et la Machine : comment la masculinité moderne s’est construite (CN)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1709238"
@@ -260,11 +265,6 @@
     "url": "https://www.themoviedb.org/movie/1704336"
   },
   {
-    "title": "แฟ้มลับโอตะตัวปลอม (CN)",
-    "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1703993"
-  },
-  {
     "title": "Un Soffio di Vita (CN)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1703916"
@@ -353,6 +353,11 @@
     "title": "The NOAH Flood (HK)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1710011"
+  },
+  {
+    "title": "Made With Love (HK)",
+    "start": "2026-06-01",
+    "url": "https://www.themoviedb.org/movie/1709976"
   },
   {
     "title": "L'Homme, le Corps et la Machine : comment la masculinité moderne s’est construite (HK)",
@@ -558,11 +563,6 @@
     "title": "M.A.T. (Molt Alta Tensió) (HK)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1704336"
-  },
-  {
-    "title": "แฟ้มลับโอตะตัวปลอม (HK)",
-    "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1703993"
   },
   {
     "title": "Un Soffio di Vita (HK)",
