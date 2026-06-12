@@ -1,5 +1,10 @@
 [
   {
+    "title": "La Fuite (CN)",
+    "start": "2026-06-01",
+    "url": "https://www.themoviedb.org/movie/1712838"
+  },
+  {
     "title": "The March to War: Iran, Israel and the USA (CN)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1711700"
@@ -295,9 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1703012"
   },
   {
-    "title": "Kick Ons (CN)",
+    "title": "La Fuite (HK)",
     "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1702344"
+    "url": "https://www.themoviedb.org/movie/1712838"
   },
   {
     "title": "The March to War: Iran, Israel and the USA (HK)",
@@ -593,10 +598,5 @@
     "title": "Miklós (28) (HK)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1703012"
-  },
-  {
-    "title": "Kick Ons (HK)",
-    "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1702344"
   }
 ]
