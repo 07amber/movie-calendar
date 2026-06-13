@@ -1,5 +1,20 @@
 [
   {
+    "title": "TUESDAY (CN)",
+    "start": "2026-06-01",
+    "url": "https://www.themoviedb.org/movie/1713481"
+  },
+  {
+    "title": "She Measures the Earth (CN)",
+    "start": "2026-06-01",
+    "url": "https://www.themoviedb.org/movie/1713384"
+  },
+  {
+    "title": "Dating Among the Ashes (CN)",
+    "start": "2026-06-01",
+    "url": "https://www.themoviedb.org/movie/1712983"
+  },
+  {
     "title": "La Fuite (CN)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1712838"
@@ -285,19 +300,19 @@
     "url": "https://www.themoviedb.org/movie/1703487"
   },
   {
-    "title": "هل تري ما أراه؟ (CN)",
+    "title": "TUESDAY (HK)",
     "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1703402"
+    "url": "https://www.themoviedb.org/movie/1713481"
   },
   {
-    "title": "Supplies (CN)",
+    "title": "She Measures the Earth (HK)",
     "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1703058"
+    "url": "https://www.themoviedb.org/movie/1713384"
   },
   {
-    "title": "Miklós (28) (CN)",
+    "title": "Dating Among the Ashes (HK)",
     "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1703012"
+    "url": "https://www.themoviedb.org/movie/1712983"
   },
   {
     "title": "La Fuite (HK)",
@@ -583,20 +598,5 @@
     "title": "Sunset Rhythms (HK)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1703487"
-  },
-  {
-    "title": "هل تري ما أراه؟ (HK)",
-    "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1703402"
-  },
-  {
-    "title": "Supplies (HK)",
-    "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1703058"
-  },
-  {
-    "title": "Miklós (28) (HK)",
-    "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1703012"
   }
 ]
