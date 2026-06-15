@@ -1,5 +1,15 @@
 [
   {
+    "title": "The Touch (CN)",
+    "start": "2026-06-01",
+    "url": "https://www.themoviedb.org/movie/1714334"
+  },
+  {
+    "title": "The Nation (CN)",
+    "start": "2026-06-01",
+    "url": "https://www.themoviedb.org/movie/1714254"
+  },
+  {
     "title": "Lesbian Cleaning Service (CN)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1714098"
@@ -290,14 +300,14 @@
     "url": "https://www.themoviedb.org/movie/1705086"
   },
   {
-    "title": "The Milky Way (CN)",
+    "title": "The Touch (HK)",
     "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1704854"
+    "url": "https://www.themoviedb.org/movie/1714334"
   },
   {
-    "title": "M.A.T. (Molt Alta Tensió) (CN)",
+    "title": "The Nation (HK)",
     "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1704336"
+    "url": "https://www.themoviedb.org/movie/1714254"
   },
   {
     "title": "Lesbian Cleaning Service (HK)",
@@ -588,15 +598,5 @@
     "title": "Driftwood Returned (HK)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1705086"
-  },
-  {
-    "title": "The Milky Way (HK)",
-    "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1704854"
-  },
-  {
-    "title": "M.A.T. (Molt Alta Tensió) (HK)",
-    "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1704336"
   }
 ]
