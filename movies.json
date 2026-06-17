@@ -1,5 +1,10 @@
 [
   {
+    "title": "Wolf Puppy (CN)",
+    "start": "2026-06-01",
+    "url": "https://www.themoviedb.org/movie/1715442"
+  },
+  {
     "title": "The Touch (CN)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1714334"
@@ -295,9 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1705111"
   },
   {
-    "title": "Driftwood Returned (CN)",
+    "title": "Wolf Puppy (HK)",
     "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1705086"
+    "url": "https://www.themoviedb.org/movie/1715442"
   },
   {
     "title": "The Touch (HK)",
@@ -593,10 +598,5 @@
     "title": "Бумажное сердце (HK)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1705111"
-  },
-  {
-    "title": "Driftwood Returned (HK)",
-    "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1705086"
   }
 ]
