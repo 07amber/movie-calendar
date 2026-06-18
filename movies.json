@@ -1,5 +1,10 @@
 [
   {
+    "title": "Something Romantic (CN)",
+    "start": "2026-06-01",
+    "url": "https://www.themoviedb.org/movie/1716545"
+  },
+  {
     "title": "Wolf Puppy (CN)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1715442"
@@ -295,9 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1705142"
   },
   {
-    "title": "Бумажное сердце (CN)",
+    "title": "Something Romantic (HK)",
     "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1705111"
+    "url": "https://www.themoviedb.org/movie/1716545"
   },
   {
     "title": "Wolf Puppy (HK)",
@@ -593,10 +598,5 @@
     "title": "The Bill in My Name (HK)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1705142"
-  },
-  {
-    "title": "Бумажное сердце (HK)",
-    "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1705111"
   }
 ]
