@@ -1,5 +1,20 @@
 [
   {
+    "title": "What's That Sound? (CN)",
+    "start": "2026-06-01",
+    "url": "https://www.themoviedb.org/movie/1719807"
+  },
+  {
+    "title": "SKIN! (CN)",
+    "start": "2026-06-01",
+    "url": "https://www.themoviedb.org/movie/1719721"
+  },
+  {
+    "title": "Blind (CN)",
+    "start": "2026-06-01",
+    "url": "https://www.themoviedb.org/movie/1719661"
+  },
+  {
     "title": "Autumn Leaves (CN)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1719428"
@@ -285,19 +300,19 @@
     "url": "https://www.themoviedb.org/movie/1705385"
   },
   {
-    "title": "THE ETERNAL MAN (CN)",
+    "title": "What's That Sound? (HK)",
     "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1705299"
+    "url": "https://www.themoviedb.org/movie/1719807"
   },
   {
-    "title": "On Air (CN)",
+    "title": "SKIN! (HK)",
     "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1705191"
+    "url": "https://www.themoviedb.org/movie/1719721"
   },
   {
-    "title": "Na starcie (CN)",
+    "title": "Blind (HK)",
     "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1705163"
+    "url": "https://www.themoviedb.org/movie/1719661"
   },
   {
     "title": "Autumn Leaves (HK)",
@@ -583,20 +598,5 @@
     "title": "Scab (HK)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1705385"
-  },
-  {
-    "title": "THE ETERNAL MAN (HK)",
-    "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1705299"
-  },
-  {
-    "title": "On Air (HK)",
-    "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1705191"
-  },
-  {
-    "title": "Na starcie (HK)",
-    "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1705163"
   }
 ]
