@@ -1,5 +1,10 @@
 [
   {
+    "title": "Dear Mr. Tarantino (CN)",
+    "start": "2026-06-01",
+    "url": "https://www.themoviedb.org/movie/1720511"
+  },
+  {
     "title": "What's That Sound? (CN)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1719807"
@@ -295,9 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1705532"
   },
   {
-    "title": "Scab (CN)",
+    "title": "Dear Mr. Tarantino (HK)",
     "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1705385"
+    "url": "https://www.themoviedb.org/movie/1720511"
   },
   {
     "title": "What's That Sound? (HK)",
@@ -593,10 +598,5 @@
     "title": "Katharsis (HK)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1705532"
-  },
-  {
-    "title": "Scab (HK)",
-    "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1705385"
   }
 ]
