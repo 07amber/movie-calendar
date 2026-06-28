@@ -1,5 +1,10 @@
 [
   {
+    "title": "Pittsburgh is Freezing (CN)",
+    "start": "2026-06-01",
+    "url": "https://www.themoviedb.org/movie/1721995"
+  },
+  {
     "title": "Погружение Амфитриты (CN)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1721370"
@@ -295,9 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1706123"
   },
   {
-    "title": "Maxim Commodity Ballet (CN)",
+    "title": "Pittsburgh is Freezing (HK)",
     "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1706121"
+    "url": "https://www.themoviedb.org/movie/1721995"
   },
   {
     "title": "Погружение Амфитриты (HK)",
@@ -593,10 +598,5 @@
     "title": "THS 2026 Senior Movie (HK)",
     "start": "2026-06-01",
     "url": "https://www.themoviedb.org/movie/1706123"
-  },
-  {
-    "title": "Maxim Commodity Ballet (HK)",
-    "start": "2026-06-01",
-    "url": "https://www.themoviedb.org/movie/1706121"
   }
 ]
