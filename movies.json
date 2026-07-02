@@ -1,8 +1,68 @@
 [
   {
-    "title": "人鱼小姐 (CN)",
-    "start": "2026-04-21",
-    "url": "https://www.themoviedb.org/movie/1351705"
+    "title": "Quem Tem Medo de Virgínia Woolf? (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724579"
+  },
+  {
+    "title": "Promised (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724534"
+  },
+  {
+    "title": "other people talking (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724523"
+  },
+  {
+    "title": "observatorio (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724521"
+  },
+  {
+    "title": "Communication (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724508"
+  },
+  {
+    "title": "Código: Martins — Hora Zero (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724397"
+  },
+  {
+    "title": "They Took My Daugther (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724381"
+  },
+  {
+    "title": "Das Haus in der Dorotheenstraße (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724196"
+  },
+  {
+    "title": "Бункер X09 (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724190"
+  },
+  {
+    "title": "Das Haus in der Dorotheenstraße (Pre Cut) (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724176"
+  },
+  {
+    "title": "Gembyeng (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724174"
+  },
+  {
+    "title": "庄蹻演义 (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724097"
+  },
+  {
+    "title": "To Be Seen (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724038"
   },
   {
     "title": "Hide and Seek (CN)",
@@ -240,39 +300,69 @@
     "url": "https://www.themoviedb.org/movie/1483527"
   },
   {
-    "title": "Moscas (CN)",
+    "title": "Quem Tem Medo de Virgínia Woolf? (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1437703"
+    "url": "https://www.themoviedb.org/movie/1724579"
   },
   {
-    "title": "그림자 아이 (CN)",
+    "title": "Promised (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1367933"
+    "url": "https://www.themoviedb.org/movie/1724534"
   },
   {
-    "title": "베란다 (CN)",
+    "title": "other people talking (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1308694"
+    "url": "https://www.themoviedb.org/movie/1724523"
   },
   {
-    "title": "福尔摩斯小姐3 (CN)",
+    "title": "observatorio (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1202033"
+    "url": "https://www.themoviedb.org/movie/1724521"
   },
   {
-    "title": "Yön lapsi (CN)",
+    "title": "Communication (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/964849"
+    "url": "https://www.themoviedb.org/movie/1724508"
   },
   {
-    "title": "Un champ de fraises pour l’éternité (CN)",
+    "title": "Código: Martins — Hora Zero (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/962772"
+    "url": "https://www.themoviedb.org/movie/1724397"
   },
   {
-    "title": "In Waves (CN)",
+    "title": "They Took My Daugther (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/947502"
+    "url": "https://www.themoviedb.org/movie/1724381"
+  },
+  {
+    "title": "Das Haus in der Dorotheenstraße (HK)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724196"
+  },
+  {
+    "title": "Бункер X09 (HK)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724190"
+  },
+  {
+    "title": "Das Haus in der Dorotheenstraße (Pre Cut) (HK)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724176"
+  },
+  {
+    "title": "Gembyeng (HK)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724174"
+  },
+  {
+    "title": "庄蹻演义 (HK)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724097"
+  },
+  {
+    "title": "To Be Seen (HK)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724038"
   },
   {
     "title": "Hide and Seek (HK)",
@@ -508,95 +598,5 @@
     "title": "François.e (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1483527"
-  },
-  {
-    "title": "Moscas (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1437703"
-  },
-  {
-    "title": "그림자 아이 (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1367933"
-  },
-  {
-    "title": "人鱼小姐 (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1351705"
-  },
-  {
-    "title": "베란다 (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1308694"
-  },
-  {
-    "title": "福尔摩斯小姐3 (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1202033"
-  },
-  {
-    "title": "Yön lapsi (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/964849"
-  },
-  {
-    "title": "Un champ de fraises pour l’éternité (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/962772"
-  },
-  {
-    "title": "In Waves (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/947502"
-  },
-  {
-    "title": "Babamın (CN)",
-    "start": "2026-07-02",
-    "url": "https://www.themoviedb.org/movie/1723940"
-  },
-  {
-    "title": "Residual (CN)",
-    "start": "2026-07-02",
-    "url": "https://www.themoviedb.org/movie/1723537"
-  },
-  {
-    "title": "Da ’Partments 2 (CN)",
-    "start": "2026-07-02",
-    "url": "https://www.themoviedb.org/movie/1722897"
-  },
-  {
-    "title": "!efliH (CN)",
-    "start": "2026-07-02",
-    "url": "https://www.themoviedb.org/movie/1722610"
-  },
-  {
-    "title": "¡Pícaro! (CN)",
-    "start": "2026-07-02",
-    "url": "https://www.themoviedb.org/movie/1721428"
-  },
-  {
-    "title": "Babamın (HK)",
-    "start": "2026-07-02",
-    "url": "https://www.themoviedb.org/movie/1723940"
-  },
-  {
-    "title": "Residual (HK)",
-    "start": "2026-07-02",
-    "url": "https://www.themoviedb.org/movie/1723537"
-  },
-  {
-    "title": "Da ’Partments 2 (HK)",
-    "start": "2026-07-02",
-    "url": "https://www.themoviedb.org/movie/1722897"
-  },
-  {
-    "title": "!efliH (HK)",
-    "start": "2026-07-02",
-    "url": "https://www.themoviedb.org/movie/1722610"
-  },
-  {
-    "title": "¡Pícaro! (HK)",
-    "start": "2026-07-02",
-    "url": "https://www.themoviedb.org/movie/1721428"
   }
 ]
