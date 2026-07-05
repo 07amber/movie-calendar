@@ -1,5 +1,10 @@
 [
   {
+    "title": "Equus Artifex (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1725982"
+  },
+  {
     "title": "Courtney Barnett: Creature of Habit - Live At Levon Helm Studios (CN)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1725320"
@@ -38,6 +43,11 @@
     "title": "Life of Life (CN)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1724842"
+  },
+  {
+    "title": "Crescer na Terra (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724799"
   },
   {
     "title": "LE DERNIER JOUR D'UN FOU (CN)",
@@ -290,14 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1666344"
   },
   {
-    "title": "The Guests (CN)",
+    "title": "Equus Artifex (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1661922"
-  },
-  {
-    "title": "Your business is a pipe (CN)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1657813"
+    "url": "https://www.themoviedb.org/movie/1725982"
   },
   {
     "title": "Courtney Barnett: Creature of Habit - Live At Levon Helm Studios (HK)",
@@ -338,6 +343,11 @@
     "title": "Life of Life (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1724842"
+  },
+  {
+    "title": "Crescer na Terra (HK)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724799"
   },
   {
     "title": "LE DERNIER JOUR D'UN FOU (HK)",
@@ -588,15 +598,5 @@
     "title": "时光列车 (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1666344"
-  },
-  {
-    "title": "The Guests (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1661922"
-  },
-  {
-    "title": "Your business is a pipe (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1657813"
   }
 ]
