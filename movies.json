@@ -1,5 +1,10 @@
 [
   {
+    "title": "Grandes maricas y bolleras de la historia (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1726287"
+  },
+  {
     "title": "Equus Artifex (CN)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1725982"
@@ -295,9 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1669180"
   },
   {
-    "title": "时光列车 (CN)",
+    "title": "Grandes maricas y bolleras de la historia (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1666344"
+    "url": "https://www.themoviedb.org/movie/1726287"
   },
   {
     "title": "Equus Artifex (HK)",
@@ -593,10 +598,5 @@
     "title": "Life Coach (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1669180"
-  },
-  {
-    "title": "时光列车 (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1666344"
   }
 ]
