@@ -25,6 +25,11 @@
     "url": "https://www.themoviedb.org/movie/1725236"
   },
   {
+    "title": "Superbeben (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1725200"
+  },
+  {
     "title": "昆仑的回声 (CN)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1725152"
@@ -220,6 +225,11 @@
     "url": "https://www.themoviedb.org/movie/1718969"
   },
   {
+    "title": "Las lágrimas amargas del sol (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1717715"
+  },
+  {
     "title": "We shouldn't be at Sea (CN)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1715642"
@@ -290,16 +300,6 @@
     "url": "https://www.themoviedb.org/movie/1677616"
   },
   {
-    "title": "'Mr. Paradise' (CN)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1669191"
-  },
-  {
-    "title": "Life Coach (CN)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1669180"
-  },
-  {
     "title": "Grandes maricas y bolleras de la historia (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1726287"
@@ -323,6 +323,11 @@
     "title": "Laruan (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1725236"
+  },
+  {
+    "title": "Superbeben (HK)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1725200"
   },
   {
     "title": "昆仑的回声 (HK)",
@@ -520,6 +525,11 @@
     "url": "https://www.themoviedb.org/movie/1718969"
   },
   {
+    "title": "Las lágrimas amargas del sol (HK)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1717715"
+  },
+  {
     "title": "We shouldn't be at Sea (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1715642"
@@ -588,15 +598,5 @@
     "title": "Heathen (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1677616"
-  },
-  {
-    "title": "'Mr. Paradise' (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1669191"
-  },
-  {
-    "title": "Life Coach (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1669180"
   }
 ]
