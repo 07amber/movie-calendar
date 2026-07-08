@@ -1,5 +1,25 @@
 [
   {
+    "title": "Paani (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1727869"
+  },
+  {
+    "title": "Vihor (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1727685"
+  },
+  {
+    "title": "Mi servicio en el Sahara (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1727542"
+  },
+  {
+    "title": "Jerry (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1727413"
+  },
+  {
     "title": "Grandes maricas y bolleras de la historia (CN)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1726287"
@@ -280,24 +300,24 @@
     "url": "https://www.themoviedb.org/movie/1693631"
   },
   {
-    "title": "日本統一７５ (CN)",
+    "title": "Paani (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1685935"
+    "url": "https://www.themoviedb.org/movie/1727869"
   },
   {
-    "title": "Laissez nous les clés (CN)",
+    "title": "Vihor (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1678181"
+    "url": "https://www.themoviedb.org/movie/1727685"
   },
   {
-    "title": "Polymer (CN)",
+    "title": "Mi servicio en el Sahara (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1677968"
+    "url": "https://www.themoviedb.org/movie/1727542"
   },
   {
-    "title": "Heathen (CN)",
+    "title": "Jerry (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1677616"
+    "url": "https://www.themoviedb.org/movie/1727413"
   },
   {
     "title": "Grandes maricas y bolleras de la historia (HK)",
@@ -578,25 +598,5 @@
     "title": "RUNTME (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1693631"
-  },
-  {
-    "title": "日本統一７５ (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1685935"
-  },
-  {
-    "title": "Laissez nous les clés (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1678181"
-  },
-  {
-    "title": "Polymer (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1677968"
-  },
-  {
-    "title": "Heathen (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1677616"
   }
 ]
