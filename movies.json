@@ -1,5 +1,10 @@
 [
   {
+    "title": "rutina. (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1728079"
+  },
+  {
     "title": "Paani (CN)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1727869"
@@ -15,9 +20,19 @@
     "url": "https://www.themoviedb.org/movie/1727542"
   },
   {
+    "title": "Action (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1727525"
+  },
+  {
     "title": "Jerry (CN)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1727413"
+  },
+  {
+    "title": "Marcas de um Império (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1727197"
   },
   {
     "title": "Grandes maricas y bolleras de la historia (CN)",
@@ -285,19 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1709114"
   },
   {
-    "title": "So Happy It Hurts (CN)",
+    "title": "rutina. (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1700897"
-  },
-  {
-    "title": "Coup de Gigot (CN)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1698310"
-  },
-  {
-    "title": "RUNTME (CN)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1693631"
+    "url": "https://www.themoviedb.org/movie/1728079"
   },
   {
     "title": "Paani (HK)",
@@ -315,9 +320,19 @@
     "url": "https://www.themoviedb.org/movie/1727542"
   },
   {
+    "title": "Action (HK)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1727525"
+  },
+  {
     "title": "Jerry (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1727413"
+  },
+  {
+    "title": "Marcas de um Império (HK)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1727197"
   },
   {
     "title": "Grandes maricas y bolleras de la historia (HK)",
@@ -583,20 +598,5 @@
     "title": "Drifters (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1709114"
-  },
-  {
-    "title": "So Happy It Hurts (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1700897"
-  },
-  {
-    "title": "Coup de Gigot (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1698310"
-  },
-  {
-    "title": "RUNTME (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1693631"
   }
 ]
