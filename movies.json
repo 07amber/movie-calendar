@@ -1,5 +1,15 @@
 [
   {
+    "title": "The Loss Of... (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1729067"
+  },
+  {
+    "title": "FATHERS - Live at Wonderland Park (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1728465"
+  },
+  {
     "title": "rutina. (CN)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1728079"
@@ -98,6 +108,11 @@
     "title": "LE DERNIER JOUR D'UN FOU (CN)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1724753"
+  },
+  {
+    "title": "Denver Takes Airy Foist (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724640"
   },
   {
     "title": "Quem Tem Medo de Virgínia Woolf? (CN)",
@@ -285,19 +300,14 @@
     "url": "https://www.themoviedb.org/movie/1714747"
   },
   {
-    "title": "EROS (CN)",
+    "title": "The Loss Of... (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1713997"
+    "url": "https://www.themoviedb.org/movie/1729067"
   },
   {
-    "title": "Uprising Smoke (CN)",
+    "title": "FATHERS - Live at Wonderland Park (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1712718"
-  },
-  {
-    "title": "Drifters (CN)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1709114"
+    "url": "https://www.themoviedb.org/movie/1728465"
   },
   {
     "title": "rutina. (HK)",
@@ -398,6 +408,11 @@
     "title": "LE DERNIER JOUR D'UN FOU (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1724753"
+  },
+  {
+    "title": "Denver Takes Airy Foist (HK)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1724640"
   },
   {
     "title": "Quem Tem Medo de Virgínia Woolf? (HK)",
@@ -583,20 +598,5 @@
     "title": "דם וטינופת (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1714747"
-  },
-  {
-    "title": "EROS (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1713997"
-  },
-  {
-    "title": "Uprising Smoke (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1712718"
-  },
-  {
-    "title": "Drifters (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1709114"
   }
 ]
