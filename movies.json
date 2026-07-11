@@ -1,5 +1,10 @@
 [
   {
+    "title": "عَ ضوّ السيجارة (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1729468"
+  },
+  {
     "title": "The Loss Of... (CN)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1729067"
@@ -295,9 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1715139"
   },
   {
-    "title": "דם וטינופת (CN)",
+    "title": "عَ ضوّ السيجارة (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1714747"
+    "url": "https://www.themoviedb.org/movie/1729468"
   },
   {
     "title": "The Loss Of... (HK)",
@@ -593,10 +598,5 @@
     "title": "Colores (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1715139"
-  },
-  {
-    "title": "דם וטינופת (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1714747"
   }
 ]
