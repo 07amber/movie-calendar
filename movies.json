@@ -1,5 +1,15 @@
 [
   {
+    "title": "Capturing America: The Carol Highsmith Story (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1730155"
+  },
+  {
+    "title": "Scum (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1730141"
+  },
+  {
     "title": "عَ ضوّ السيجارة (CN)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1729468"
@@ -8,6 +18,11 @@
     "title": "The Loss Of... (CN)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1729067"
+  },
+  {
+    "title": "HETEROCERA (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1729061"
   },
   {
     "title": "FATHERS - Live at Wonderland Park (CN)",
@@ -285,19 +300,14 @@
     "url": "https://www.themoviedb.org/movie/1717715"
   },
   {
-    "title": "We shouldn't be at Sea (CN)",
+    "title": "Capturing America: The Carol Highsmith Story (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1715642"
+    "url": "https://www.themoviedb.org/movie/1730155"
   },
   {
-    "title": "Burnt Ends (CN)",
+    "title": "Scum (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1715227"
-  },
-  {
-    "title": "Colores (CN)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1715139"
+    "url": "https://www.themoviedb.org/movie/1730141"
   },
   {
     "title": "عَ ضوّ السيجارة (HK)",
@@ -308,6 +318,11 @@
     "title": "The Loss Of... (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1729067"
+  },
+  {
+    "title": "HETEROCERA (HK)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1729061"
   },
   {
     "title": "FATHERS - Live at Wonderland Park (HK)",
@@ -583,20 +598,5 @@
     "title": "Las lágrimas amargas del sol (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1717715"
-  },
-  {
-    "title": "We shouldn't be at Sea (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1715642"
-  },
-  {
-    "title": "Burnt Ends (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1715227"
-  },
-  {
-    "title": "Colores (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1715139"
   }
 ]
