@@ -1,5 +1,10 @@
 [
   {
+    "title": "Santa (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1730571"
+  },
+  {
     "title": "Capturing America: The Carol Highsmith Story (CN)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1730155"
@@ -23,6 +28,11 @@
     "title": "HETEROCERA (CN)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1729061"
+  },
+  {
+    "title": "Apple Seeds (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1728707"
   },
   {
     "title": "FATHERS - Live at Wonderland Park (CN)",
@@ -290,14 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1719064"
   },
   {
-    "title": "Fuera de Lugar: Lo que se esconde detrás del campo (CN)",
+    "title": "Santa (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1718969"
-  },
-  {
-    "title": "Las lágrimas amargas del sol (CN)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1717715"
+    "url": "https://www.themoviedb.org/movie/1730571"
   },
   {
     "title": "Capturing America: The Carol Highsmith Story (HK)",
@@ -323,6 +328,11 @@
     "title": "HETEROCERA (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1729061"
+  },
+  {
+    "title": "Apple Seeds (HK)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1728707"
   },
   {
     "title": "FATHERS - Live at Wonderland Park (HK)",
@@ -588,15 +598,5 @@
     "title": "late quietus (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1719064"
-  },
-  {
-    "title": "Fuera de Lugar: Lo que se esconde detrás del campo (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1718969"
-  },
-  {
-    "title": "Las lágrimas amargas del sol (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1717715"
   }
 ]
