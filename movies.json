@@ -125,11 +125,6 @@
     "url": "https://www.themoviedb.org/movie/1725236"
   },
   {
-    "title": "Superbeben (CN)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1725200"
-  },
-  {
     "title": "昆仑的回声 (CN)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1725152"
@@ -300,6 +295,11 @@
     "url": "https://www.themoviedb.org/movie/1720958"
   },
   {
+    "title": "Godej do mie (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1720808"
+  },
+  {
     "title": "casa d'altri//fujenti (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1731724"
@@ -423,11 +423,6 @@
     "title": "Laruan (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1725236"
-  },
-  {
-    "title": "Superbeben (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1725200"
   },
   {
     "title": "昆仑的回声 (HK)",
@@ -598,5 +593,10 @@
     "title": "Pity & Fear (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1720958"
+  },
+  {
+    "title": "Godej do mie (HK)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1720808"
   }
 ]
