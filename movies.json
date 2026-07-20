@@ -1,5 +1,10 @@
 [
   {
+    "title": "Essa Coisa Entre Nós é Uma Paisagem no Fim do Mundo (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1733777"
+  },
+  {
     "title": "casa d'altri//fujenti (CN)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1731724"
@@ -295,9 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1720958"
   },
   {
-    "title": "Godej do mie (CN)",
+    "title": "Essa Coisa Entre Nós é Uma Paisagem no Fim do Mundo (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1720808"
+    "url": "https://www.themoviedb.org/movie/1733777"
   },
   {
     "title": "casa d'altri//fujenti (HK)",
@@ -593,10 +598,5 @@
     "title": "Pity & Fear (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1720958"
-  },
-  {
-    "title": "Godej do mie (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1720808"
   }
 ]
