@@ -1,5 +1,10 @@
 [
   {
+    "title": "Inverno e Verão (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1737994"
+  },
+  {
     "title": "Aurora (CN)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1737269"
@@ -63,11 +68,6 @@
     "title": "HETEROCERA (CN)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1729061"
-  },
-  {
-    "title": "Apple Seeds (CN)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1728707"
   },
   {
     "title": "FATHERS - Live at Wonderland Park (CN)",
@@ -300,6 +300,11 @@
     "url": "https://www.themoviedb.org/movie/1720958"
   },
   {
+    "title": "Inverno e Verão (HK)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1737994"
+  },
+  {
     "title": "Aurora (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1737269"
@@ -363,11 +368,6 @@
     "title": "HETEROCERA (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1729061"
-  },
-  {
-    "title": "Apple Seeds (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1728707"
   },
   {
     "title": "FATHERS - Live at Wonderland Park (HK)",
