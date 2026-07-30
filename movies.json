@@ -1,5 +1,15 @@
 [
   {
+    "title": "The follower (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1740092"
+  },
+  {
+    "title": "Loin (CN)",
+    "start": "2026-07-01",
+    "url": "https://www.themoviedb.org/movie/1739784"
+  },
+  {
     "title": "Inverno e Verão (CN)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1737994"
@@ -290,14 +300,14 @@
     "url": "https://www.themoviedb.org/movie/1721751"
   },
   {
-    "title": "FŪR NOCTIŬM (CN)",
+    "title": "The follower (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1721374"
+    "url": "https://www.themoviedb.org/movie/1740092"
   },
   {
-    "title": "Pity & Fear (CN)",
+    "title": "Loin (HK)",
     "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1720958"
+    "url": "https://www.themoviedb.org/movie/1739784"
   },
   {
     "title": "Inverno e Verão (HK)",
@@ -588,15 +598,5 @@
     "title": "Pine Hollow (HK)",
     "start": "2026-07-01",
     "url": "https://www.themoviedb.org/movie/1721751"
-  },
-  {
-    "title": "FŪR NOCTIŬM (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1721374"
-  },
-  {
-    "title": "Pity & Fear (HK)",
-    "start": "2026-07-01",
-    "url": "https://www.themoviedb.org/movie/1720958"
   }
 ]
