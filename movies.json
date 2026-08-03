@@ -1,5 +1,30 @@
 [
   {
+    "title": "Ուրվականը մեր միջև (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1741915"
+  },
+  {
+    "title": "50 Jahre BAP - Das Jubiläumskonzert! (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1741813"
+  },
+  {
+    "title": "Echoes (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1741807"
+  },
+  {
+    "title": "The Story Behind The City (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1741724"
+  },
+  {
+    "title": "Teatro Dallas: 40 Years of Play (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1741716"
+  },
+  {
     "title": "REW 03 (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1741670"
@@ -43,6 +68,11 @@
     "title": "Mientras Dure el Espectáculo (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1741405"
+  },
+  {
+    "title": "Luteal (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1741321"
   },
   {
     "title": "Cheiros Que Ficam Com Você (CN)",
@@ -270,34 +300,29 @@
     "url": "https://www.themoviedb.org/movie/1722441"
   },
   {
-    "title": "Cannapluggageddon (CN)",
+    "title": "Ուրվականը մեր միջև (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1722231"
+    "url": "https://www.themoviedb.org/movie/1741915"
   },
   {
-    "title": "浪花男女 (CN)",
+    "title": "50 Jahre BAP - Das Jubiläumskonzert! (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1718154"
+    "url": "https://www.themoviedb.org/movie/1741813"
   },
   {
-    "title": "Void (CN)",
+    "title": "Echoes (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1716946"
+    "url": "https://www.themoviedb.org/movie/1741807"
   },
   {
-    "title": "Last Call (CN)",
+    "title": "The Story Behind The City (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1714716"
+    "url": "https://www.themoviedb.org/movie/1741724"
   },
   {
-    "title": "OKTAGON 92: Szabová vs. Pudilová (CN)",
+    "title": "Teatro Dallas: 40 Years of Play (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1713448"
-  },
-  {
-    "title": "青云店下一站 (CN)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1712742"
+    "url": "https://www.themoviedb.org/movie/1741716"
   },
   {
     "title": "REW 03 (HK)",
@@ -343,6 +368,11 @@
     "title": "Mientras Dure el Espectáculo (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1741405"
+  },
+  {
+    "title": "Luteal (HK)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1741321"
   },
   {
     "title": "Cheiros Que Ficam Com Você (HK)",
@@ -568,35 +598,5 @@
     "title": "Summoned (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1722441"
-  },
-  {
-    "title": "Cannapluggageddon (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1722231"
-  },
-  {
-    "title": "浪花男女 (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1718154"
-  },
-  {
-    "title": "Void (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1716946"
-  },
-  {
-    "title": "Last Call (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1714716"
-  },
-  {
-    "title": "OKTAGON 92: Szabová vs. Pudilová (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1713448"
-  },
-  {
-    "title": "青云店下一站 (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1712742"
   }
 ]
