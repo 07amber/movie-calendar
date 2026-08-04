@@ -1,5 +1,25 @@
 [
   {
+    "title": "Cafard (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1742629"
+  },
+  {
+    "title": "Hawkins Power & Light (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1742537"
+  },
+  {
+    "title": "Cornerstone: The Lenny Wilkens Story (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1742477"
+  },
+  {
+    "title": "Tracers (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1742204"
+  },
+  {
     "title": "Ուրվականը մեր միջև (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1741915"
@@ -255,6 +275,11 @@
     "url": "https://www.themoviedb.org/movie/1728740"
   },
   {
+    "title": "Passing By (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1728598"
+  },
+  {
     "title": "Life Review ® (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1728021"
@@ -275,29 +300,24 @@
     "url": "https://www.themoviedb.org/movie/1726056"
   },
   {
-    "title": "The Boy (CN)",
+    "title": "Cafard (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1725345"
+    "url": "https://www.themoviedb.org/movie/1742629"
   },
   {
-    "title": "Passion machinale (CN)",
+    "title": "Hawkins Power & Light (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1724836"
+    "url": "https://www.themoviedb.org/movie/1742537"
   },
   {
-    "title": "Dans mon cœur plaintif es entrée (CN)",
+    "title": "Cornerstone: The Lenny Wilkens Story (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1724610"
+    "url": "https://www.themoviedb.org/movie/1742477"
   },
   {
-    "title": "NJPW G1 Climax 36 - Day 10 (CN)",
+    "title": "Tracers (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1723402"
-  },
-  {
-    "title": "Summoned (CN)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1722441"
+    "url": "https://www.themoviedb.org/movie/1742204"
   },
   {
     "title": "Ուրվականը մեր միջև (HK)",
@@ -555,6 +575,11 @@
     "url": "https://www.themoviedb.org/movie/1728740"
   },
   {
+    "title": "Passing By (HK)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1728598"
+  },
+  {
     "title": "Life Review ® (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1728021"
@@ -573,30 +598,5 @@
     "title": "Toast to Italy (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1726056"
-  },
-  {
-    "title": "The Boy (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1725345"
-  },
-  {
-    "title": "Passion machinale (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1724836"
-  },
-  {
-    "title": "Dans mon cœur plaintif es entrée (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1724610"
-  },
-  {
-    "title": "NJPW G1 Climax 36 - Day 10 (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1723402"
-  },
-  {
-    "title": "Summoned (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1722441"
   }
 ]
