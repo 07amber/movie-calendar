@@ -1,5 +1,25 @@
 [
   {
+    "title": "I Kill Gods (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1743670"
+  },
+  {
+    "title": "Horror Anthology Volume 2 (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1743661"
+  },
+  {
+    "title": "Tom Pearl (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1743468"
+  },
+  {
+    "title": "Uống Thuốc (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1743358"
+  },
+  {
     "title": "Establishing Shots (and how music affects them) (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1743043"
@@ -48,6 +68,11 @@
     "title": "The Story Behind The City (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1741724"
+  },
+  {
+    "title": "Calvin Harris: Live from Scotland (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1741720"
   },
   {
     "title": "Teatro Dallas: 40 Years of Play (CN)",
@@ -245,6 +270,11 @@
     "url": "https://www.themoviedb.org/movie/1737292"
   },
   {
+    "title": "Mother, My Child (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1736024"
+  },
+  {
     "title": "Hitler’s Games: Berlin 1936 in Colour (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1735699"
@@ -270,34 +300,24 @@
     "url": "https://www.themoviedb.org/movie/1732053"
   },
   {
-    "title": "LIMERENCE (CN)",
+    "title": "I Kill Gods (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1730052"
+    "url": "https://www.themoviedb.org/movie/1743670"
   },
   {
-    "title": "Killer Clown (CN)",
+    "title": "Horror Anthology Volume 2 (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1729773"
+    "url": "https://www.themoviedb.org/movie/1743661"
   },
   {
-    "title": "るすばん (CN)",
+    "title": "Tom Pearl (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1729769"
+    "url": "https://www.themoviedb.org/movie/1743468"
   },
   {
-    "title": "L'étrange Noël de Sylvaine (CN)",
+    "title": "Uống Thuốc (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1729575"
-  },
-  {
-    "title": "奇談島航：埋葬的孩子 (CN)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1728740"
-  },
-  {
-    "title": "Passing By (CN)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1728598"
+    "url": "https://www.themoviedb.org/movie/1743358"
   },
   {
     "title": "Establishing Shots (and how music affects them) (HK)",
@@ -348,6 +368,11 @@
     "title": "The Story Behind The City (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1741724"
+  },
+  {
+    "title": "Calvin Harris: Live from Scotland (HK)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1741720"
   },
   {
     "title": "Teatro Dallas: 40 Years of Play (HK)",
@@ -545,6 +570,11 @@
     "url": "https://www.themoviedb.org/movie/1737292"
   },
   {
+    "title": "Mother, My Child (HK)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1736024"
+  },
+  {
     "title": "Hitler’s Games: Berlin 1936 in Colour (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1735699"
@@ -568,35 +598,5 @@
     "title": "Oriental Hardon (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1732053"
-  },
-  {
-    "title": "LIMERENCE (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1730052"
-  },
-  {
-    "title": "Killer Clown (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1729773"
-  },
-  {
-    "title": "るすばん (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1729769"
-  },
-  {
-    "title": "L'étrange Noël de Sylvaine (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1729575"
-  },
-  {
-    "title": "奇談島航：埋葬的孩子 (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1728740"
-  },
-  {
-    "title": "Passing By (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1728598"
   }
 ]
