@@ -1,5 +1,15 @@
 [
   {
+    "title": "The Walten Files 5 - Faces of Grief (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1744636"
+  },
+  {
+    "title": "The Inbetween (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1744260"
+  },
+  {
     "title": "I Kill Gods (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1743670"
@@ -43,6 +53,11 @@
     "title": "Cornerstone: The Lenny Wilkens Story (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1742477"
+  },
+  {
+    "title": "Always Been You (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1742209"
   },
   {
     "title": "Tracers (CN)",
@@ -118,6 +133,11 @@
     "title": "American SUP (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1741494"
+  },
+  {
+    "title": "Estrogen Killer (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1741426"
   },
   {
     "title": "Når naturen kalder (CN)",
@@ -280,24 +300,14 @@
     "url": "https://www.themoviedb.org/movie/1735699"
   },
   {
-    "title": "AAA Verano de Escàndalo 2026 - Week 2 (CN)",
+    "title": "The Walten Files 5 - Faces of Grief (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1735591"
+    "url": "https://www.themoviedb.org/movie/1744636"
   },
   {
-    "title": "Tripolar (CN)",
+    "title": "The Inbetween (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1735049"
-  },
-  {
-    "title": "Moi, l'autre (CN)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1734250"
-  },
-  {
-    "title": "Oriental Hardon (CN)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1732053"
+    "url": "https://www.themoviedb.org/movie/1744260"
   },
   {
     "title": "I Kill Gods (HK)",
@@ -343,6 +353,11 @@
     "title": "Cornerstone: The Lenny Wilkens Story (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1742477"
+  },
+  {
+    "title": "Always Been You (HK)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1742209"
   },
   {
     "title": "Tracers (HK)",
@@ -418,6 +433,11 @@
     "title": "American SUP (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1741494"
+  },
+  {
+    "title": "Estrogen Killer (HK)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1741426"
   },
   {
     "title": "Når naturen kalder (HK)",
@@ -578,25 +598,5 @@
     "title": "Hitler’s Games: Berlin 1936 in Colour (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1735699"
-  },
-  {
-    "title": "AAA Verano de Escàndalo 2026 - Week 2 (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1735591"
-  },
-  {
-    "title": "Tripolar (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1735049"
-  },
-  {
-    "title": "Moi, l'autre (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1734250"
-  },
-  {
-    "title": "Oriental Hardon (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1732053"
   }
 ]
