@@ -1,8 +1,13 @@
 [
   {
-    "title": "The Walten Files 5 - Faces of Grief (CN)",
+    "title": "Faces of Grief (CN)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1744636"
+    "url": "https://www.themoviedb.org/movie/1745402"
+  },
+  {
+    "title": "ουπς! (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1744944"
   },
   {
     "title": "The Inbetween (CN)",
@@ -295,14 +300,14 @@
     "url": "https://www.themoviedb.org/movie/1736024"
   },
   {
-    "title": "Hitler’s Games: Berlin 1936 in Colour (CN)",
+    "title": "Faces of Grief (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1735699"
+    "url": "https://www.themoviedb.org/movie/1745402"
   },
   {
-    "title": "The Walten Files 5 - Faces of Grief (HK)",
+    "title": "ουπς! (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1744636"
+    "url": "https://www.themoviedb.org/movie/1744944"
   },
   {
     "title": "The Inbetween (HK)",
@@ -593,10 +598,5 @@
     "title": "Mother, My Child (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1736024"
-  },
-  {
-    "title": "Hitler’s Games: Berlin 1936 in Colour (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1735699"
   }
 ]
