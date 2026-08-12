@@ -1,5 +1,15 @@
 [
   {
+    "title": "Welcome to the World of a Billion € Fraud (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1747547"
+  },
+  {
+    "title": "Dieses eine Leben (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1747546"
+  },
+  {
     "title": "Handle With Care (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1746756"
@@ -290,14 +300,14 @@
     "url": "https://www.themoviedb.org/movie/1737984"
   },
   {
-    "title": "Mora (CN)",
+    "title": "Welcome to the World of a Billion € Fraud (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1737663"
+    "url": "https://www.themoviedb.org/movie/1747547"
   },
   {
-    "title": "Boy Trouble (CN)",
+    "title": "Dieses eine Leben (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1737292"
+    "url": "https://www.themoviedb.org/movie/1747546"
   },
   {
     "title": "Handle With Care (HK)",
@@ -588,15 +598,5 @@
     "title": "Last Man Standing (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1737984"
-  },
-  {
-    "title": "Mora (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1737663"
-  },
-  {
-    "title": "Boy Trouble (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1737292"
   }
 ]
