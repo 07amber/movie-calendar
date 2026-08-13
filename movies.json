@@ -280,11 +280,6 @@
     "url": "https://www.themoviedb.org/movie/1738827"
   },
   {
-    "title": "Eclipse Across Europe (CN)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1738546"
-  },
-  {
     "title": "Under the Western Skies (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1738126"
@@ -298,6 +293,11 @@
     "title": "Last Man Standing (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1737984"
+  },
+  {
+    "title": "Mora (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1737663"
   },
   {
     "title": "Welcome to the World of a Billion € Fraud (HK)",
@@ -580,11 +580,6 @@
     "url": "https://www.themoviedb.org/movie/1738827"
   },
   {
-    "title": "Eclipse Across Europe (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1738546"
-  },
-  {
     "title": "Under the Western Skies (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1738126"
@@ -598,5 +593,10 @@
     "title": "Last Man Standing (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1737984"
+  },
+  {
+    "title": "Mora (HK)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1737663"
   }
 ]
