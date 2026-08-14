@@ -1,5 +1,15 @@
 [
   {
+    "title": "Dove finisce la pelle (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1748082"
+  },
+  {
+    "title": "The Almajiri (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1747727"
+  },
+  {
     "title": "Welcome to the World of a Billion € Fraud (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1747547"
@@ -33,11 +43,6 @@
     "title": "Horror Anthology Volume 2 (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1743661"
-  },
-  {
-    "title": "Tom Pearl (CN)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1743468"
   },
   {
     "title": "Uống Thuốc (CN)",
@@ -295,9 +300,14 @@
     "url": "https://www.themoviedb.org/movie/1737984"
   },
   {
-    "title": "Mora (CN)",
+    "title": "Dove finisce la pelle (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1737663"
+    "url": "https://www.themoviedb.org/movie/1748082"
+  },
+  {
+    "title": "The Almajiri (HK)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1747727"
   },
   {
     "title": "Welcome to the World of a Billion € Fraud (HK)",
@@ -333,11 +343,6 @@
     "title": "Horror Anthology Volume 2 (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1743661"
-  },
-  {
-    "title": "Tom Pearl (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1743468"
   },
   {
     "title": "Uống Thuốc (HK)",
@@ -593,10 +598,5 @@
     "title": "Last Man Standing (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1737984"
-  },
-  {
-    "title": "Mora (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1737663"
   }
 ]
