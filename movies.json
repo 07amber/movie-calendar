@@ -1,11 +1,31 @@
 [
   {
+    "title": "Almost Missing (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1752670"
+  },
+  {
+    "title": "Two Hands Mans: The Chauncing (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1752642"
+  },
+  {
+    "title": "The House of Dr. Cross (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1752483"
+  },
+  {
+    "title": "完美先生陷阱 (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1752138"
+  },
+  {
     "title": "Dove finisce la pelle (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1748082"
   },
   {
-    "title": "The Almajiri (CN)",
+    "title": "卡诺城的追光者 (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1747727"
   },
@@ -280,24 +300,24 @@
     "url": "https://www.themoviedb.org/movie/1739172"
   },
   {
-    "title": "ALTÉRER (CN)",
+    "title": "Almost Missing (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1738827"
+    "url": "https://www.themoviedb.org/movie/1752670"
   },
   {
-    "title": "Under the Western Skies (CN)",
+    "title": "Two Hands Mans: The Chauncing (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1738126"
+    "url": "https://www.themoviedb.org/movie/1752642"
   },
   {
-    "title": "相信 (CN)",
+    "title": "The House of Dr. Cross (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1738069"
+    "url": "https://www.themoviedb.org/movie/1752483"
   },
   {
-    "title": "Last Man Standing (CN)",
+    "title": "完美先生陷阱 (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1737984"
+    "url": "https://www.themoviedb.org/movie/1752138"
   },
   {
     "title": "Dove finisce la pelle (HK)",
@@ -305,7 +325,7 @@
     "url": "https://www.themoviedb.org/movie/1748082"
   },
   {
-    "title": "The Almajiri (HK)",
+    "title": "卡诺城的追光者 (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1747727"
   },
@@ -578,25 +598,5 @@
     "title": "HeartStealer (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1739172"
-  },
-  {
-    "title": "ALTÉRER (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1738827"
-  },
-  {
-    "title": "Under the Western Skies (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1738126"
-  },
-  {
-    "title": "相信 (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1738069"
-  },
-  {
-    "title": "Last Man Standing (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1737984"
   }
 ]
