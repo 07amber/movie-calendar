@@ -1,5 +1,10 @@
 [
   {
+    "title": "Jumpin' Dublin (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1753891"
+  },
+  {
     "title": "Ar re Wirion (Les Véritables) (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1753075"
@@ -295,9 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1739998"
   },
   {
-    "title": "16 Plantas / 1 Ascensor (CN)",
+    "title": "Jumpin' Dublin (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1739792"
+    "url": "https://www.themoviedb.org/movie/1753891"
   },
   {
     "title": "Ar re Wirion (Les Véritables) (HK)",
@@ -593,10 +598,5 @@
     "title": "L'ultimo nodo (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1739998"
-  },
-  {
-    "title": "16 Plantas / 1 Ascensor (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1739792"
   }
 ]
