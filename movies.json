@@ -1,5 +1,15 @@
 [
   {
+    "title": "Meu Nome é Eneas (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1755506"
+  },
+  {
+    "title": "Star One: Resurrection (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1755433"
+  },
+  {
     "title": "Jumpin' Dublin (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1753891"
@@ -290,14 +300,14 @@
     "url": "https://www.themoviedb.org/movie/1740085"
   },
   {
-    "title": "Reflex (CN)",
+    "title": "Meu Nome é Eneas (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1740068"
+    "url": "https://www.themoviedb.org/movie/1755506"
   },
   {
-    "title": "L'ultimo nodo (CN)",
+    "title": "Star One: Resurrection (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1739998"
+    "url": "https://www.themoviedb.org/movie/1755433"
   },
   {
     "title": "Jumpin' Dublin (HK)",
@@ -588,15 +598,5 @@
     "title": "Twisted Scissors (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1740085"
-  },
-  {
-    "title": "Reflex (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1740068"
-  },
-  {
-    "title": "L'ultimo nodo (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1739998"
   }
 ]
