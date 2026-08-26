@@ -1,5 +1,15 @@
 [
   {
+    "title": "軍服を着た神様 (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1755973"
+  },
+  {
+    "title": "Pangs (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1755970"
+  },
+  {
     "title": "Meu Nome é Eneas (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1755506"
@@ -290,14 +300,14 @@
     "url": "https://www.themoviedb.org/movie/1740258"
   },
   {
-    "title": "Lazarus (CN)",
+    "title": "軍服を着た神様 (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1740090"
+    "url": "https://www.themoviedb.org/movie/1755973"
   },
   {
-    "title": "Twisted Scissors (CN)",
+    "title": "Pangs (HK)",
     "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1740085"
+    "url": "https://www.themoviedb.org/movie/1755970"
   },
   {
     "title": "Meu Nome é Eneas (HK)",
@@ -588,15 +598,5 @@
     "title": "River Runs (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1740258"
-  },
-  {
-    "title": "Lazarus (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1740090"
-  },
-  {
-    "title": "Twisted Scissors (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1740085"
   }
 ]
