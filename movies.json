@@ -200,6 +200,11 @@
     "url": "https://www.themoviedb.org/movie/1741670"
   },
   {
+    "title": "Real People (CN)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1741651"
+  },
+  {
     "title": "i’ll miss you (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1741625"
@@ -293,11 +298,6 @@
     "title": "My Happy Place (CN)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1740587"
-  },
-  {
-    "title": "River Runs (CN)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1740258"
   },
   {
     "title": "軍服を着た神様 (HK)",
@@ -500,6 +500,11 @@
     "url": "https://www.themoviedb.org/movie/1741670"
   },
   {
+    "title": "Real People (HK)",
+    "start": "2026-08-01",
+    "url": "https://www.themoviedb.org/movie/1741651"
+  },
+  {
     "title": "i’ll miss you (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1741625"
@@ -593,10 +598,5 @@
     "title": "My Happy Place (HK)",
     "start": "2026-08-01",
     "url": "https://www.themoviedb.org/movie/1740587"
-  },
-  {
-    "title": "River Runs (HK)",
-    "start": "2026-08-01",
-    "url": "https://www.themoviedb.org/movie/1740258"
   }
 ]
