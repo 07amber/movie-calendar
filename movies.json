@@ -1,5 +1,10 @@
 [
   {
+    "title": "Головний герой (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1761367"
+  },
+  {
     "title": "Windows on the World: 9/11's Forgotten Story (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1761013"
@@ -10,9 +15,19 @@
     "url": "https://www.themoviedb.org/movie/1760980"
   },
   {
+    "title": "Going to McDonald's to get the Hello Kitty Godzilla Happy Meal Toy (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1760741"
+  },
+  {
     "title": "Yedho Ondru Ennai Thakka Case 01 (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1760590"
+  },
+  {
+    "title": "Gays In The Park (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1760527"
   },
   {
     "title": "Le Trésor (CN)",
@@ -85,6 +100,11 @@
     "url": "https://www.themoviedb.org/movie/1760282"
   },
   {
+    "title": "Lotgenoten (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1760226"
+  },
+  {
     "title": "Imitators (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1760211"
@@ -140,11 +160,6 @@
     "url": "https://www.themoviedb.org/movie/1759054"
   },
   {
-    "title": "Phantasmatapes II (CN)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1759050"
-  },
-  {
     "title": "Gohiner Dirghoshash (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1758975"
@@ -193,6 +208,11 @@
     "title": "Der Boxerkrieg - Das Ende des chinesischen Kaiserreichs (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1756717"
+  },
+  {
+    "title": "Grind (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1756432"
   },
   {
     "title": "По контуру (CN)",
@@ -275,24 +295,9 @@
     "url": "https://www.themoviedb.org/movie/1754071"
   },
   {
-    "title": "At The Bottom (CN)",
+    "title": "Головний герой (HK)",
     "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1753743"
-  },
-  {
-    "title": "The Ballad of Being a Better Mother (CN)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1753582"
-  },
-  {
-    "title": "Liena (CN)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1753368"
-  },
-  {
-    "title": "Carne y Piel (CN)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1753366"
+    "url": "https://www.themoviedb.org/movie/1761367"
   },
   {
     "title": "Windows on the World: 9/11's Forgotten Story (HK)",
@@ -305,9 +310,19 @@
     "url": "https://www.themoviedb.org/movie/1760980"
   },
   {
+    "title": "Going to McDonald's to get the Hello Kitty Godzilla Happy Meal Toy (HK)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1760741"
+  },
+  {
     "title": "Yedho Ondru Ennai Thakka Case 01 (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1760590"
+  },
+  {
+    "title": "Gays In The Park (HK)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1760527"
   },
   {
     "title": "Le Trésor (HK)",
@@ -380,6 +395,11 @@
     "url": "https://www.themoviedb.org/movie/1760282"
   },
   {
+    "title": "Lotgenoten (HK)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1760226"
+  },
+  {
     "title": "Imitators (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1760211"
@@ -435,11 +455,6 @@
     "url": "https://www.themoviedb.org/movie/1759054"
   },
   {
-    "title": "Phantasmatapes II (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1759050"
-  },
-  {
     "title": "Gohiner Dirghoshash (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1758975"
@@ -488,6 +503,11 @@
     "title": "Der Boxerkrieg - Das Ende des chinesischen Kaiserreichs (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1756717"
+  },
+  {
+    "title": "Grind (HK)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1756432"
   },
   {
     "title": "По контуру (HK)",
@@ -568,25 +588,5 @@
     "title": "Route 66: The Main Street of America (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1754071"
-  },
-  {
-    "title": "At The Bottom (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1753743"
-  },
-  {
-    "title": "The Ballad of Being a Better Mother (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1753582"
-  },
-  {
-    "title": "Liena (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1753368"
-  },
-  {
-    "title": "Carne y Piel (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1753366"
   }
 ]
