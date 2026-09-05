@@ -1,5 +1,10 @@
 [
   {
+    "title": "In the Circle of Life (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1763741"
+  },
+  {
     "title": "Головний герой (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1761367"
@@ -10,7 +15,7 @@
     "url": "https://www.themoviedb.org/movie/1761013"
   },
   {
-    "title": "უცხო (CN)",
+    "title": "The Stranger (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1760980"
   },
@@ -290,9 +295,9 @@
     "url": "https://www.themoviedb.org/movie/1754354"
   },
   {
-    "title": "Route 66: The Main Street of America (CN)",
+    "title": "In the Circle of Life (HK)",
     "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1754071"
+    "url": "https://www.themoviedb.org/movie/1763741"
   },
   {
     "title": "Головний герой (HK)",
@@ -305,7 +310,7 @@
     "url": "https://www.themoviedb.org/movie/1761013"
   },
   {
-    "title": "უცხო (HK)",
+    "title": "The Stranger (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1760980"
   },
@@ -583,10 +588,5 @@
     "title": "VCR Willie: Tape 3 (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1754354"
-  },
-  {
-    "title": "Route 66: The Main Street of America (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1754071"
   }
 ]
