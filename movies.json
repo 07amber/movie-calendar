@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Haunting of Fringle House (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1764194"
+  },
+  {
     "title": "In the Circle of Life (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1763741"
@@ -18,6 +23,11 @@
     "title": "The Stranger (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1760980"
+  },
+  {
+    "title": "Gourd Island (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1760907"
   },
   {
     "title": "Going to McDonald's to get the Hello Kitty Godzilla Happy Meal Toy (CN)",
@@ -285,14 +295,9 @@
     "url": "https://www.themoviedb.org/movie/1754993"
   },
   {
-    "title": "Paper Crane (CN)",
+    "title": "The Haunting of Fringle House (HK)",
     "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1754381"
-  },
-  {
-    "title": "VCR Willie: Tape 3 (CN)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1754354"
+    "url": "https://www.themoviedb.org/movie/1764194"
   },
   {
     "title": "In the Circle of Life (HK)",
@@ -313,6 +318,11 @@
     "title": "The Stranger (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1760980"
+  },
+  {
+    "title": "Gourd Island (HK)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1760907"
   },
   {
     "title": "Going to McDonald's to get the Hello Kitty Godzilla Happy Meal Toy (HK)",
@@ -578,15 +588,5 @@
     "title": "El cortejo (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1754993"
-  },
-  {
-    "title": "Paper Crane (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1754381"
-  },
-  {
-    "title": "VCR Willie: Tape 3 (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1754354"
   }
 ]
