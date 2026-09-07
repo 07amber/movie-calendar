@@ -85,6 +85,11 @@
     "url": "https://www.themoviedb.org/movie/1760380"
   },
   {
+    "title": "Hummingbird (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1760371"
+  },
+  {
     "title": "Medytacja Cichego Rozkładu (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1760350"
@@ -290,11 +295,6 @@
     "url": "https://www.themoviedb.org/movie/1755001"
   },
   {
-    "title": "El cortejo (CN)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1754993"
-  },
-  {
     "title": "The Haunting of Fringle House (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1764194"
@@ -378,6 +378,11 @@
     "title": "Como Dominar o Mundo (ou Meninos Mimados) (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1760380"
+  },
+  {
+    "title": "Hummingbird (HK)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1760371"
   },
   {
     "title": "Medytacja Cichego Rozkładu (HK)",
@@ -583,10 +588,5 @@
     "title": "Mayor de Edad (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1755001"
-  },
-  {
-    "title": "El cortejo (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1754993"
   }
 ]
