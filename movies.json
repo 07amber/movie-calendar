@@ -1,5 +1,20 @@
 [
   {
+    "title": "Duffy and Friends' Little Voyage (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1765806"
+  },
+  {
+    "title": "Guillotine Summer (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1765772"
+  },
+  {
+    "title": "The Skirvin Experience (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1765273"
+  },
+  {
     "title": "The Haunting of Fringle House (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1764194"
@@ -280,19 +295,19 @@
     "url": "https://www.themoviedb.org/movie/1755025"
   },
   {
-    "title": "Puerta 36 (CN)",
+    "title": "Duffy and Friends' Little Voyage (HK)",
     "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755023"
+    "url": "https://www.themoviedb.org/movie/1765806"
   },
   {
-    "title": "Adiós Mixo (CN)",
+    "title": "Guillotine Summer (HK)",
     "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755002"
+    "url": "https://www.themoviedb.org/movie/1765772"
   },
   {
-    "title": "Mayor de Edad (CN)",
+    "title": "The Skirvin Experience (HK)",
     "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755001"
+    "url": "https://www.themoviedb.org/movie/1765273"
   },
   {
     "title": "The Haunting of Fringle House (HK)",
@@ -573,20 +588,5 @@
     "title": "Las aguas de agosto (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1755025"
-  },
-  {
-    "title": "Puerta 36 (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755023"
-  },
-  {
-    "title": "Adiós Mixo (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755002"
-  },
-  {
-    "title": "Mayor de Edad (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755001"
   }
 ]
