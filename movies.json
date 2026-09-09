@@ -1,5 +1,10 @@
 [
   {
+    "title": "After Party (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1766245"
+  },
+  {
     "title": "Duffy and Friends' Little Voyage (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1765806"
@@ -10,7 +15,7 @@
     "url": "https://www.themoviedb.org/movie/1765772"
   },
   {
-    "title": "The Skirvin Experience (CN)",
+    "title": "The Hotel Tapes (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1765273"
   },
@@ -145,14 +150,14 @@
     "url": "https://www.themoviedb.org/movie/1760211"
   },
   {
-    "title": "A Boire ! (CN)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1760113"
-  },
-  {
     "title": "To Kill a Velofahrer (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1760119"
+  },
+  {
+    "title": "A Boire ! (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1760113"
   },
   {
     "title": "The Last Photograph (CN)",
@@ -295,6 +300,11 @@
     "url": "https://www.themoviedb.org/movie/1755025"
   },
   {
+    "title": "After Party (HK)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1766245"
+  },
+  {
     "title": "Duffy and Friends' Little Voyage (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1765806"
@@ -305,7 +315,7 @@
     "url": "https://www.themoviedb.org/movie/1765772"
   },
   {
-    "title": "The Skirvin Experience (HK)",
+    "title": "The Hotel Tapes (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1765273"
   },
@@ -440,14 +450,14 @@
     "url": "https://www.themoviedb.org/movie/1760211"
   },
   {
-    "title": "A Boire ! (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1760113"
-  },
-  {
     "title": "To Kill a Velofahrer (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1760119"
+  },
+  {
+    "title": "A Boire ! (HK)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1760113"
   },
   {
     "title": "The Last Photograph (HK)",
