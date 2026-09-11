@@ -1,5 +1,10 @@
 [
   {
+    "title": "Konfesiniai Karai: Universitetas (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1767566"
+  },
+  {
     "title": "After Party (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1766245"
@@ -295,9 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1755026"
   },
   {
-    "title": "Las aguas de agosto (CN)",
+    "title": "Konfesiniai Karai: Universitetas (HK)",
     "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755025"
+    "url": "https://www.themoviedb.org/movie/1767566"
   },
   {
     "title": "After Party (HK)",
@@ -593,10 +598,5 @@
     "title": "Recuperándonos en Júpiter (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1755026"
-  },
-  {
-    "title": "Las aguas de agosto (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755025"
   }
 ]
