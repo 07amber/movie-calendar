@@ -1,5 +1,15 @@
 [
   {
+    "title": "Lamentation (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1768545"
+  },
+  {
+    "title": "Deadly Fruit (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1768476"
+  },
+  {
     "title": "Konfesiniai Karai: Universitetas (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1767566"
@@ -290,14 +300,14 @@
     "url": "https://www.themoviedb.org/movie/1755209"
   },
   {
-    "title": "Un poeta más (CN)",
+    "title": "Lamentation (HK)",
     "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755028"
+    "url": "https://www.themoviedb.org/movie/1768545"
   },
   {
-    "title": "Recuperándonos en Júpiter (CN)",
+    "title": "Deadly Fruit (HK)",
     "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755026"
+    "url": "https://www.themoviedb.org/movie/1768476"
   },
   {
     "title": "Konfesiniai Karai: Universitetas (HK)",
@@ -588,15 +598,5 @@
     "title": "Recuerdos de fragmentos suspendidos (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1755209"
-  },
-  {
-    "title": "Un poeta más (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755028"
-  },
-  {
-    "title": "Recuperándonos en Júpiter (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755026"
   }
 ]
