@@ -1,5 +1,20 @@
 [
   {
+    "title": "From Zema With Love (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1769846"
+  },
+  {
+    "title": "Did You Twirl? (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1769843"
+  },
+  {
+    "title": "Déluge mineur (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1769682"
+  },
+  {
     "title": "Lamentation (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1768545"
@@ -285,19 +300,19 @@
     "url": "https://www.themoviedb.org/movie/1755522"
   },
   {
-    "title": "Mont-Saint-Michel : les dernières énigmes de l’abbaye (CN)",
+    "title": "From Zema With Love (HK)",
     "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755509"
+    "url": "https://www.themoviedb.org/movie/1769846"
   },
   {
-    "title": "Switch Over (CN)",
+    "title": "Did You Twirl? (HK)",
     "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755331"
+    "url": "https://www.themoviedb.org/movie/1769843"
   },
   {
-    "title": "Recuerdos de fragmentos suspendidos (CN)",
+    "title": "Déluge mineur (HK)",
     "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755209"
+    "url": "https://www.themoviedb.org/movie/1769682"
   },
   {
     "title": "Lamentation (HK)",
@@ -583,20 +598,5 @@
     "title": "Grignote-moi si tu peux, les dessous de l'apéritif (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1755522"
-  },
-  {
-    "title": "Mont-Saint-Michel : les dernières énigmes de l’abbaye (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755509"
-  },
-  {
-    "title": "Switch Over (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755331"
-  },
-  {
-    "title": "Recuerdos de fragmentos suspendidos (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755209"
   }
 ]
