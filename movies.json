@@ -1,5 +1,10 @@
 [
   {
+    "title": "Opera Kitsch (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1770123"
+  },
+  {
     "title": "From Zema With Love (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1769846"
@@ -295,9 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1755665"
   },
   {
-    "title": "Grignote-moi si tu peux, les dessous de l'apéritif (CN)",
+    "title": "Opera Kitsch (HK)",
     "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755522"
+    "url": "https://www.themoviedb.org/movie/1770123"
   },
   {
     "title": "From Zema With Love (HK)",
@@ -593,10 +598,5 @@
     "title": "Assassin Within (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1755665"
-  },
-  {
-    "title": "Grignote-moi si tu peux, les dessous de l'apéritif (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755522"
   }
 ]
