@@ -55,6 +55,11 @@
     "url": "https://www.themoviedb.org/movie/1765273"
   },
   {
+    "title": "Ribs (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1765218"
+  },
+  {
     "title": "The Haunting of Fringle House (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1764194"
@@ -295,11 +300,6 @@
     "url": "https://www.themoviedb.org/movie/1756099"
   },
   {
-    "title": "Assassin Within (CN)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755665"
-  },
-  {
     "title": "Opera Kitsch (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1770123"
@@ -353,6 +353,11 @@
     "title": "The Hotel Tapes (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1765273"
+  },
+  {
+    "title": "Ribs (HK)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1765218"
   },
   {
     "title": "The Haunting of Fringle House (HK)",
@@ -593,10 +598,5 @@
     "title": "По контуру (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1756099"
-  },
-  {
-    "title": "Assassin Within (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1755665"
   }
 ]
