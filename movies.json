@@ -285,6 +285,11 @@
     "url": "https://www.themoviedb.org/movie/1757374"
   },
   {
+    "title": "The Otherkind (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1757243"
+  },
+  {
     "title": "Der Boxerkrieg - Das Ende des chinesischen Kaiserreichs (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1756717"
@@ -293,11 +298,6 @@
     "title": "Grind (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1756432"
-  },
-  {
-    "title": "По контуру (CN)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1756099"
   },
   {
     "title": "Opera Kitsch (HK)",
@@ -585,6 +585,11 @@
     "url": "https://www.themoviedb.org/movie/1757374"
   },
   {
+    "title": "The Otherkind (HK)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1757243"
+  },
+  {
     "title": "Der Boxerkrieg - Das Ende des chinesischen Kaiserreichs (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1756717"
@@ -593,10 +598,5 @@
     "title": "Grind (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1756432"
-  },
-  {
-    "title": "По контуру (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1756099"
   }
 ]
