@@ -175,11 +175,6 @@
     "url": "https://www.themoviedb.org/movie/1760299"
   },
   {
-    "title": "Tous les jeux se ressemblent (CN)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1760282"
-  },
-  {
     "title": "Lotgenoten (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1760226"
@@ -298,6 +293,11 @@
     "title": "Grind (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1756432"
+  },
+  {
+    "title": "По контуру (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1756099"
   },
   {
     "title": "Opera Kitsch (HK)",
@@ -475,11 +475,6 @@
     "url": "https://www.themoviedb.org/movie/1760299"
   },
   {
-    "title": "Tous les jeux se ressemblent (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1760282"
-  },
-  {
     "title": "Lotgenoten (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1760226"
@@ -598,5 +593,10 @@
     "title": "Grind (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1756432"
+  },
+  {
+    "title": "По контуру (HK)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1756099"
   }
 ]
