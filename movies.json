@@ -1,5 +1,15 @@
 [
   {
+    "title": "Somos agua (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1775203"
+  },
+  {
+    "title": "La mar (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1775152"
+  },
+  {
     "title": "Opera Kitsch (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1770123"
@@ -240,6 +250,11 @@
     "url": "https://www.themoviedb.org/movie/1758975"
   },
   {
+    "title": "As Câmeras do Edifício Palmer (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1758392"
+  },
+  {
     "title": "Ocho segundos. Gloria y Polvo. (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1757409"
@@ -285,19 +300,14 @@
     "url": "https://www.themoviedb.org/movie/1757243"
   },
   {
-    "title": "Der Boxerkrieg - Das Ende des chinesischen Kaiserreichs (CN)",
+    "title": "Somos agua (HK)",
     "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1756717"
+    "url": "https://www.themoviedb.org/movie/1775203"
   },
   {
-    "title": "Grind (CN)",
+    "title": "La mar (HK)",
     "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1756432"
-  },
-  {
-    "title": "По контуру (CN)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1756099"
+    "url": "https://www.themoviedb.org/movie/1775152"
   },
   {
     "title": "Opera Kitsch (HK)",
@@ -540,6 +550,11 @@
     "url": "https://www.themoviedb.org/movie/1758975"
   },
   {
+    "title": "As Câmeras do Edifício Palmer (HK)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1758392"
+  },
+  {
     "title": "Ocho segundos. Gloria y Polvo. (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1757409"
@@ -583,20 +598,5 @@
     "title": "The Otherkind (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1757243"
-  },
-  {
-    "title": "Der Boxerkrieg - Das Ende des chinesischen Kaiserreichs (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1756717"
-  },
-  {
-    "title": "Grind (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1756432"
-  },
-  {
-    "title": "По контуру (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1756099"
   }
 ]
