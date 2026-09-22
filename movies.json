@@ -1,5 +1,10 @@
 [
   {
+    "title": "We Are the River: How the Mississippi Shaped Minnesota (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1775620"
+  },
+  {
     "title": "Somos agua (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1775203"
@@ -295,9 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1757374"
   },
   {
-    "title": "The Otherkind (CN)",
+    "title": "We Are the River: How the Mississippi Shaped Minnesota (HK)",
     "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1757243"
+    "url": "https://www.themoviedb.org/movie/1775620"
   },
   {
     "title": "Somos agua (HK)",
@@ -593,10 +598,5 @@
     "title": "Retrato de una adolescencia familiar (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1757374"
-  },
-  {
-    "title": "The Otherkind (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1757243"
   }
 ]
