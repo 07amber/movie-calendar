@@ -1,5 +1,10 @@
 [
   {
+    "title": "Kettleman (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1781963"
+  },
+  {
     "title": "Baghdad (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1780009"
@@ -295,9 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1757409"
   },
   {
-    "title": "El sonido de la forma y el volumen (CN)",
+    "title": "Kettleman (HK)",
     "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1757406"
+    "url": "https://www.themoviedb.org/movie/1781963"
   },
   {
     "title": "Baghdad (HK)",
@@ -593,10 +598,5 @@
     "title": "Ocho Segundos. Gloria y polvo. (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1757409"
-  },
-  {
-    "title": "El sonido de la forma y el volumen (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1757406"
   }
 ]
