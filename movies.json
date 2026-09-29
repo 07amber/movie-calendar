@@ -1,5 +1,15 @@
 [
   {
+    "title": "A vizinha (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1783397"
+  },
+  {
+    "title": "Beyond Top Secret: The Era of Disclosure (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1782831"
+  },
+  {
     "title": "Kettleman (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1781963"
@@ -290,14 +300,14 @@
     "url": "https://www.themoviedb.org/movie/1758975"
   },
   {
-    "title": "As Câmeras do Edifício Palmer (CN)",
+    "title": "A vizinha (HK)",
     "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1758392"
+    "url": "https://www.themoviedb.org/movie/1783397"
   },
   {
-    "title": "Ocho Segundos. Gloria y polvo. (CN)",
+    "title": "Beyond Top Secret: The Era of Disclosure (HK)",
     "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1757409"
+    "url": "https://www.themoviedb.org/movie/1782831"
   },
   {
     "title": "Kettleman (HK)",
@@ -588,15 +598,5 @@
     "title": "Gohiner Dirghoshash (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1758975"
-  },
-  {
-    "title": "As Câmeras do Edifício Palmer (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1758392"
-  },
-  {
-    "title": "Ocho Segundos. Gloria y polvo. (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1757409"
   }
 ]
