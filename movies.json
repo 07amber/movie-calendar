@@ -1,5 +1,10 @@
 [
   {
+    "title": "Estrellas (CN)",
+    "start": "2026-09-01",
+    "url": "https://www.themoviedb.org/movie/1783654"
+  },
+  {
     "title": "A vizinha (CN)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1783397"
@@ -295,9 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1759054"
   },
   {
-    "title": "Gohiner Dirghoshash (CN)",
+    "title": "Estrellas (HK)",
     "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1758975"
+    "url": "https://www.themoviedb.org/movie/1783654"
   },
   {
     "title": "A vizinha (HK)",
@@ -593,10 +598,5 @@
     "title": "Earth Vs. Gori (HK)",
     "start": "2026-09-01",
     "url": "https://www.themoviedb.org/movie/1759054"
-  },
-  {
-    "title": "Gohiner Dirghoshash (HK)",
-    "start": "2026-09-01",
-    "url": "https://www.themoviedb.org/movie/1758975"
   }
 ]
