@@ -1,10 +1,5 @@
 [
   {
-    "title": "Countdown: Infinity War (CN)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1786826"
-  },
-  {
     "title": "മല്ലികാവിലാസം (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1786823"
@@ -20,6 +15,11 @@
     "url": "https://www.themoviedb.org/movie/1786777"
   },
   {
+    "title": "Another Sea Behind Another Wall (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1786741"
+  },
+  {
     "title": "Stream of Terror (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1786738"
@@ -33,6 +33,11 @@
     "title": "Samhain: The Birth of Halloween (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1786478"
+  },
+  {
+    "title": "Stagehand (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1786418"
   },
   {
     "title": "A Festa da Desordem de uma Umbra Eterna (CN)",
@@ -78,6 +83,11 @@
     "title": "Short cuts - Interstellar de Christopher Nolan (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1786250"
+  },
+  {
+    "title": "산책하는 법 (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1786247"
   },
   {
     "title": "Holly (CN)",
@@ -290,21 +300,6 @@
     "url": "https://www.themoviedb.org/movie/1778685"
   },
   {
-    "title": "BREAKERS (CN)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1778490"
-  },
-  {
-    "title": "Poslední tábor (CN)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1778489"
-  },
-  {
-    "title": "Countdown: Infinity War (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1786826"
-  },
-  {
     "title": "മല്ലികാവിലാസം (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1786823"
@@ -320,6 +315,11 @@
     "url": "https://www.themoviedb.org/movie/1786777"
   },
   {
+    "title": "Another Sea Behind Another Wall (HK)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1786741"
+  },
+  {
     "title": "Stream of Terror (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1786738"
@@ -333,6 +333,11 @@
     "title": "Samhain: The Birth of Halloween (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1786478"
+  },
+  {
+    "title": "Stagehand (HK)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1786418"
   },
   {
     "title": "A Festa da Desordem de uma Umbra Eterna (HK)",
@@ -378,6 +383,11 @@
     "title": "Short cuts - Interstellar de Christopher Nolan (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1786250"
+  },
+  {
+    "title": "산책하는 법 (HK)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1786247"
   },
   {
     "title": "Holly (HK)",
@@ -588,15 +598,5 @@
     "title": "In-To (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1778685"
-  },
-  {
-    "title": "BREAKERS (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1778490"
-  },
-  {
-    "title": "Poslední tábor (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1778489"
   }
 ]
