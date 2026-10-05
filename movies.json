@@ -1,5 +1,20 @@
 [
   {
+    "title": "Laiba Ka Ghar (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1788255"
+  },
+  {
+    "title": "One Tina (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1788134"
+  },
+  {
+    "title": "OLATS (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1787181"
+  },
+  {
     "title": "മല്ലികാവിലാസം (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1786823"
@@ -285,19 +300,19 @@
     "url": "https://www.themoviedb.org/movie/1778692"
   },
   {
-    "title": "The Happy Pig Brand (CN)",
+    "title": "Laiba Ka Ghar (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1778691"
+    "url": "https://www.themoviedb.org/movie/1788255"
   },
   {
-    "title": "Як заводити друзів (CN)",
+    "title": "One Tina (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1778689"
+    "url": "https://www.themoviedb.org/movie/1788134"
   },
   {
-    "title": "In-To (CN)",
+    "title": "OLATS (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1778685"
+    "url": "https://www.themoviedb.org/movie/1787181"
   },
   {
     "title": "മല്ലികാവിലാസം (HK)",
@@ -583,20 +598,5 @@
     "title": "Animak (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1778692"
-  },
-  {
-    "title": "The Happy Pig Brand (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1778691"
-  },
-  {
-    "title": "Як заводити друзів (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1778689"
-  },
-  {
-    "title": "In-To (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1778685"
   }
 ]
