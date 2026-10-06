@@ -1,5 +1,15 @@
 [
   {
+    "title": "It's Pronounced Dave (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1788989"
+  },
+  {
+    "title": "Volta (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1788474"
+  },
+  {
     "title": "Laiba Ka Ghar (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1788255"
@@ -290,14 +300,14 @@
     "url": "https://www.themoviedb.org/movie/1778719"
   },
   {
-    "title": "Oh How Embarrassing To Be Human (CN)",
+    "title": "It's Pronounced Dave (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1778695"
+    "url": "https://www.themoviedb.org/movie/1788989"
   },
   {
-    "title": "Animak (CN)",
+    "title": "Volta (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1778692"
+    "url": "https://www.themoviedb.org/movie/1788474"
   },
   {
     "title": "Laiba Ka Ghar (HK)",
@@ -588,15 +598,5 @@
     "title": "Метро під курником (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1778719"
-  },
-  {
-    "title": "Oh How Embarrassing To Be Human (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1778695"
-  },
-  {
-    "title": "Animak (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1778692"
   }
 ]
