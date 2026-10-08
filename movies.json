@@ -185,6 +185,11 @@
     "url": "https://www.themoviedb.org/movie/1785269"
   },
   {
+    "title": "Phoneia (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1785258"
+  },
+  {
     "title": "Orange Lights (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1785158"
@@ -293,11 +298,6 @@
     "title": "Mi enemigo es mi cuerpo (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1780424"
-  },
-  {
-    "title": "La Sombra (CN)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1780355"
   },
   {
     "title": "B0YG1RL: VISUAL ALBUM (HK)",
@@ -485,6 +485,11 @@
     "url": "https://www.themoviedb.org/movie/1785269"
   },
   {
+    "title": "Phoneia (HK)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1785258"
+  },
+  {
     "title": "Orange Lights (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1785158"
@@ -593,10 +598,5 @@
     "title": "Mi enemigo es mi cuerpo (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1780424"
-  },
-  {
-    "title": "La Sombra (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1780355"
   }
 ]
