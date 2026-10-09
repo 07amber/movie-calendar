@@ -1,5 +1,20 @@
 [
   {
+    "title": "Agbara Nla: The Return (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1792115"
+  },
+  {
+    "title": "Patawater (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1792043"
+  },
+  {
+    "title": "When Reality Bleeds Out (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1791424"
+  },
+  {
     "title": "B0YG1RL: VISUAL ALBUM (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1790134"
@@ -285,19 +300,19 @@
     "url": "https://www.themoviedb.org/movie/1781430"
   },
   {
-    "title": "Optimum (CN)",
+    "title": "Agbara Nla: The Return (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1781429"
+    "url": "https://www.themoviedb.org/movie/1792115"
   },
   {
-    "title": "Broth (CN)",
+    "title": "Patawater (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1781426"
+    "url": "https://www.themoviedb.org/movie/1792043"
   },
   {
-    "title": "Mi enemigo es mi cuerpo (CN)",
+    "title": "When Reality Bleeds Out (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1780424"
+    "url": "https://www.themoviedb.org/movie/1791424"
   },
   {
     "title": "B0YG1RL: VISUAL ALBUM (HK)",
@@ -583,20 +598,5 @@
     "title": "Still Alive (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1781430"
-  },
-  {
-    "title": "Optimum (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1781429"
-  },
-  {
-    "title": "Broth (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1781426"
-  },
-  {
-    "title": "Mi enemigo es mi cuerpo (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1780424"
   }
 ]
