@@ -1,5 +1,25 @@
 [
   {
+    "title": "On Wild Horse Plains (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1792907"
+  },
+  {
+    "title": "Shadowland (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1792893"
+  },
+  {
+    "title": "Baby Talk (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1792845"
+  },
+  {
+    "title": "Dào Xiàng (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1792405"
+  },
+  {
     "title": "Agbara Nla: The Return (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1792115"
@@ -280,24 +300,24 @@
     "url": "https://www.themoviedb.org/movie/1782411"
   },
   {
-    "title": "Smoke (CN)",
+    "title": "On Wild Horse Plains (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1781443"
+    "url": "https://www.themoviedb.org/movie/1792907"
   },
   {
-    "title": "Bed to the Future (CN)",
+    "title": "Shadowland (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1781437"
+    "url": "https://www.themoviedb.org/movie/1792893"
   },
   {
-    "title": "Un-static (CN)",
+    "title": "Baby Talk (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1781432"
+    "url": "https://www.themoviedb.org/movie/1792845"
   },
   {
-    "title": "Still Alive (CN)",
+    "title": "Dào Xiàng (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1781430"
+    "url": "https://www.themoviedb.org/movie/1792405"
   },
   {
     "title": "Agbara Nla: The Return (HK)",
@@ -578,25 +598,5 @@
     "title": "What We Missed (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1782411"
-  },
-  {
-    "title": "Smoke (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1781443"
-  },
-  {
-    "title": "Bed to the Future (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1781437"
-  },
-  {
-    "title": "Un-static (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1781432"
-  },
-  {
-    "title": "Still Alive (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1781430"
   }
 ]
