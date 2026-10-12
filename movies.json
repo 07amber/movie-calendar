@@ -1,5 +1,20 @@
 [
   {
+    "title": "One Knight (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1794639"
+  },
+  {
+    "title": "Badanta (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1794494"
+  },
+  {
+    "title": "É O Complexo! (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1794451"
+  },
+  {
     "title": "On Wild Horse Plains (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1792907"
@@ -285,19 +300,19 @@
     "url": "https://www.themoviedb.org/movie/1783528"
   },
   {
-    "title": "Els pits de Julieta, els ous del toro (CN)",
+    "title": "One Knight (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1783328"
+    "url": "https://www.themoviedb.org/movie/1794639"
   },
   {
-    "title": "Beneath the Beams of Noon (CN)",
+    "title": "Badanta (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1783132"
+    "url": "https://www.themoviedb.org/movie/1794494"
   },
   {
-    "title": "What We Missed (CN)",
+    "title": "É O Complexo! (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1782411"
+    "url": "https://www.themoviedb.org/movie/1794451"
   },
   {
     "title": "On Wild Horse Plains (HK)",
@@ -583,20 +598,5 @@
     "title": "Wilde Ozeane (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1783528"
-  },
-  {
-    "title": "Els pits de Julieta, els ous del toro (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1783328"
-  },
-  {
-    "title": "Beneath the Beams of Noon (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1783132"
-  },
-  {
-    "title": "What We Missed (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1782411"
   }
 ]
