@@ -1,5 +1,15 @@
 [
   {
+    "title": "Honey's Christmas Wish (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1795649"
+  },
+  {
+    "title": "Transerrante (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1795628"
+  },
+  {
     "title": "One Knight (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1794639"
@@ -290,14 +300,14 @@
     "url": "https://www.themoviedb.org/movie/1783596"
   },
   {
-    "title": "Ton Ombre Heureuse (CN)",
+    "title": "Honey's Christmas Wish (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1783553"
+    "url": "https://www.themoviedb.org/movie/1795649"
   },
   {
-    "title": "Wilde Ozeane (CN)",
+    "title": "Transerrante (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1783528"
+    "url": "https://www.themoviedb.org/movie/1795628"
   },
   {
     "title": "One Knight (HK)",
@@ -588,15 +598,5 @@
     "title": "ផ្ទះក្រោយ៧៩ (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1783596"
-  },
-  {
-    "title": "Ton Ombre Heureuse (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1783553"
-  },
-  {
-    "title": "Wilde Ozeane (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1783528"
   }
 ]
