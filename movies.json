@@ -1,5 +1,10 @@
 [
   {
+    "title": "Buenos amigos (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1796764"
+  },
+  {
     "title": "Santa Águeda (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1796305"
@@ -143,6 +148,11 @@
     "title": "12.08/F0F1 (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1786609"
+  },
+  {
+    "title": "赤子獅心 (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1786568"
   },
   {
     "title": "Samhain: The Birth of Halloween (CN)",
@@ -290,14 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1784129"
   },
   {
-    "title": "Edwin: In Technicolor (CN)",
+    "title": "Buenos amigos (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1783925"
-  },
-  {
-    "title": "There Are No Rules (CN)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1783630"
+    "url": "https://www.themoviedb.org/movie/1796764"
   },
   {
     "title": "Santa Águeda (HK)",
@@ -445,6 +450,11 @@
     "url": "https://www.themoviedb.org/movie/1786609"
   },
   {
+    "title": "赤子獅心 (HK)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1786568"
+  },
+  {
     "title": "Samhain: The Birth of Halloween (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1786478"
@@ -588,15 +598,5 @@
     "title": "טופול: על גג העולם (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1784129"
-  },
-  {
-    "title": "Edwin: In Technicolor (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1783925"
-  },
-  {
-    "title": "There Are No Rules (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1783630"
   }
 ]
