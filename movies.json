@@ -1,5 +1,15 @@
 [
   {
+    "title": "Gusto Ko Mahimong Butterfly (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1798268"
+  },
+  {
+    "title": "Etude of Silence (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1797940"
+  },
+  {
     "title": "Buenos amigos (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1796764"
@@ -145,6 +155,11 @@
     "url": "https://www.themoviedb.org/movie/1786738"
   },
   {
+    "title": "Reform Zara (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1786670"
+  },
+  {
     "title": "12.08/F0F1 (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1786609"
@@ -285,19 +300,14 @@
     "url": "https://www.themoviedb.org/movie/1785022"
   },
   {
-    "title": "Find your peace (CN)",
+    "title": "Gusto Ko Mahimong Butterfly (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1784543"
+    "url": "https://www.themoviedb.org/movie/1798268"
   },
   {
-    "title": "Promise (CN)",
+    "title": "Etude of Silence (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1784427"
-  },
-  {
-    "title": "טופול: על גג העולם (CN)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1784129"
+    "url": "https://www.themoviedb.org/movie/1797940"
   },
   {
     "title": "Buenos amigos (HK)",
@@ -445,6 +455,11 @@
     "url": "https://www.themoviedb.org/movie/1786738"
   },
   {
+    "title": "Reform Zara (HK)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1786670"
+  },
+  {
     "title": "12.08/F0F1 (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1786609"
@@ -583,20 +598,5 @@
     "title": "Blind Spot (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1785022"
-  },
-  {
-    "title": "Find your peace (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1784543"
-  },
-  {
-    "title": "Promise (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1784427"
-  },
-  {
-    "title": "טופול: על גג העולם (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1784129"
   }
 ]
