@@ -1,5 +1,15 @@
 [
   {
+    "title": "Sport: goed voor lichaam en geest (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1799240"
+  },
+  {
+    "title": "Titanic : les 10 faces cachées du mythe (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1799198"
+  },
+  {
     "title": "Gusto Ko Mahimong Butterfly (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1798268"
@@ -8,6 +18,11 @@
     "title": "Etude of Silence (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1797940"
+  },
+  {
+    "title": "Héritage (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1797667"
   },
   {
     "title": "Buenos amigos (CN)",
@@ -285,19 +300,14 @@
     "url": "https://www.themoviedb.org/movie/1785158"
   },
   {
-    "title": "El Baile (CN)",
+    "title": "Sport: goed voor lichaam en geest (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1785065"
+    "url": "https://www.themoviedb.org/movie/1799240"
   },
   {
-    "title": "Βούλα (CN)",
+    "title": "Titanic : les 10 faces cachées du mythe (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1785063"
-  },
-  {
-    "title": "Blind Spot (CN)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1785022"
+    "url": "https://www.themoviedb.org/movie/1799198"
   },
   {
     "title": "Gusto Ko Mahimong Butterfly (HK)",
@@ -308,6 +318,11 @@
     "title": "Etude of Silence (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1797940"
+  },
+  {
+    "title": "Héritage (HK)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1797667"
   },
   {
     "title": "Buenos amigos (HK)",
@@ -583,20 +598,5 @@
     "title": "Orange Lights (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1785158"
-  },
-  {
-    "title": "El Baile (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1785065"
-  },
-  {
-    "title": "Βούλα (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1785063"
-  },
-  {
-    "title": "Blind Spot (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1785022"
   }
 ]
