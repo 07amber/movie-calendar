@@ -1,5 +1,10 @@
 [
   {
+    "title": "Wingman (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1800712"
+  },
+  {
     "title": "Sport: goed voor lichaam en geest (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1799240"
@@ -138,6 +143,11 @@
     "title": "One Tina (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1788134"
+  },
+  {
+    "title": "All of Us (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1787183"
   },
   {
     "title": "OLATS (CN)",
@@ -290,14 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1785269"
   },
   {
-    "title": "Phoneia (CN)",
+    "title": "Wingman (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1785258"
-  },
-  {
-    "title": "Orange Lights (CN)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1785158"
+    "url": "https://www.themoviedb.org/movie/1800712"
   },
   {
     "title": "Sport: goed voor lichaam en geest (HK)",
@@ -438,6 +443,11 @@
     "title": "One Tina (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1788134"
+  },
+  {
+    "title": "All of Us (HK)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1787183"
   },
   {
     "title": "OLATS (HK)",
@@ -588,15 +598,5 @@
     "title": "Chimera (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1785269"
-  },
-  {
-    "title": "Phoneia (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1785258"
-  },
-  {
-    "title": "Orange Lights (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1785158"
   }
 ]
