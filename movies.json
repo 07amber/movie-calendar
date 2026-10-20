@@ -1,5 +1,15 @@
 [
   {
+    "title": "Beneath our feet (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1801721"
+  },
+  {
+    "title": "Beyond Boy (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1801694"
+  },
+  {
     "title": "Wingman (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1800712"
@@ -290,14 +300,14 @@
     "url": "https://www.themoviedb.org/movie/1785448"
   },
   {
-    "title": "Flying with the Crows (CN)",
+    "title": "Beneath our feet (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1785308"
+    "url": "https://www.themoviedb.org/movie/1801721"
   },
   {
-    "title": "Chimera (CN)",
+    "title": "Beyond Boy (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1785269"
+    "url": "https://www.themoviedb.org/movie/1801694"
   },
   {
     "title": "Wingman (HK)",
@@ -588,15 +598,5 @@
     "title": "灵魂摆渡·公主之梦 (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1785448"
-  },
-  {
-    "title": "Flying with the Crows (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1785308"
-  },
-  {
-    "title": "Chimera (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1785269"
   }
 ]
