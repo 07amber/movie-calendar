@@ -1,5 +1,20 @@
 [
   {
+    "title": "1st Attempt (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1802332"
+  },
+  {
+    "title": "Cikiromantic (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1802331"
+  },
+  {
+    "title": "Ghost in the Celluloid (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1802329"
+  },
+  {
     "title": "Beneath our feet (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1801721"
@@ -285,19 +300,19 @@
     "url": "https://www.themoviedb.org/movie/1786145"
   },
   {
-    "title": "Me devrais-je inquiéter d'un songe ? (CN)",
+    "title": "1st Attempt (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1785819"
+    "url": "https://www.themoviedb.org/movie/1802332"
   },
   {
-    "title": "Warrior (CN)",
+    "title": "Cikiromantic (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1785778"
+    "url": "https://www.themoviedb.org/movie/1802331"
   },
   {
-    "title": "灵魂摆渡·公主之梦 (CN)",
+    "title": "Ghost in the Celluloid (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1785448"
+    "url": "https://www.themoviedb.org/movie/1802329"
   },
   {
     "title": "Beneath our feet (HK)",
@@ -583,20 +598,5 @@
     "title": "The Leftovers (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1786145"
-  },
-  {
-    "title": "Me devrais-je inquiéter d'un songe ? (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1785819"
-  },
-  {
-    "title": "Warrior (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1785778"
-  },
-  {
-    "title": "灵魂摆渡·公主之梦 (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1785448"
   }
 ]
