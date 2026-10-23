@@ -1,5 +1,10 @@
 [
   {
+    "title": "El amor en tiempos de cumbia (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1804215"
+  },
+  {
     "title": "1st Attempt (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1802332"
@@ -23,6 +28,11 @@
     "title": "Beyond Boy (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1801694"
+  },
+  {
+    "title": "No, Chef! (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1801288"
   },
   {
     "title": "Wingman (CN)",
@@ -290,14 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1786216"
   },
   {
-    "title": "Curse of the Ghoul Logs (CN)",
+    "title": "El amor en tiempos de cumbia (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1786212"
-  },
-  {
-    "title": "The Leftovers (CN)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1786145"
+    "url": "https://www.themoviedb.org/movie/1804215"
   },
   {
     "title": "1st Attempt (HK)",
@@ -323,6 +328,11 @@
     "title": "Beyond Boy (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1801694"
+  },
+  {
+    "title": "No, Chef! (HK)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1801288"
   },
   {
     "title": "Wingman (HK)",
@@ -588,15 +598,5 @@
     "title": "APRES COUP (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1786216"
-  },
-  {
-    "title": "Curse of the Ghoul Logs (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1786212"
-  },
-  {
-    "title": "The Leftovers (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1786145"
   }
 ]
