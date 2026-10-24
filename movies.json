@@ -1,5 +1,15 @@
 [
   {
+    "title": "Hello October: from Sam (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1805606"
+  },
+  {
+    "title": "HIDDEN (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1805544"
+  },
+  {
     "title": "El amor en tiempos de cumbia (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1804215"
@@ -290,14 +300,14 @@
     "url": "https://www.themoviedb.org/movie/1786247"
   },
   {
-    "title": "Holly (CN)",
+    "title": "Hello October: from Sam (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1786246"
+    "url": "https://www.themoviedb.org/movie/1805606"
   },
   {
-    "title": "APRES COUP (CN)",
+    "title": "HIDDEN (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1786216"
+    "url": "https://www.themoviedb.org/movie/1805544"
   },
   {
     "title": "El amor en tiempos de cumbia (HK)",
@@ -588,15 +598,5 @@
     "title": "산책하는 법 (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1786247"
-  },
-  {
-    "title": "Holly (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1786246"
-  },
-  {
-    "title": "APRES COUP (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1786216"
   }
 ]
