@@ -1,5 +1,10 @@
 [
   {
+    "title": "The Seventh Day (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1807728"
+  },
+  {
     "title": "Hello October: from Sam (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1805606"
@@ -8,6 +13,11 @@
     "title": "HIDDEN (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1805544"
+  },
+  {
+    "title": "The Surveyor (CN)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1805465"
   },
   {
     "title": "El amor en tiempos de cumbia (CN)",
@@ -155,11 +165,6 @@
     "url": "https://www.themoviedb.org/movie/1789955"
   },
   {
-    "title": "Živá voda (CN)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1789865"
-  },
-  {
     "title": "Setkání (CN)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1789836"
@@ -295,9 +300,9 @@
     "url": "https://www.themoviedb.org/movie/1786250"
   },
   {
-    "title": "산책하는 법 (CN)",
+    "title": "The Seventh Day (HK)",
     "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1786247"
+    "url": "https://www.themoviedb.org/movie/1807728"
   },
   {
     "title": "Hello October: from Sam (HK)",
@@ -308,6 +313,11 @@
     "title": "HIDDEN (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1805544"
+  },
+  {
+    "title": "The Surveyor (HK)",
+    "start": "2026-10-01",
+    "url": "https://www.themoviedb.org/movie/1805465"
   },
   {
     "title": "El amor en tiempos de cumbia (HK)",
@@ -455,11 +465,6 @@
     "url": "https://www.themoviedb.org/movie/1789955"
   },
   {
-    "title": "Živá voda (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1789865"
-  },
-  {
     "title": "Setkání (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1789836"
@@ -593,10 +598,5 @@
     "title": "Short cuts - Interstellar de Christopher Nolan (HK)",
     "start": "2026-10-01",
     "url": "https://www.themoviedb.org/movie/1786250"
-  },
-  {
-    "title": "산책하는 법 (HK)",
-    "start": "2026-10-01",
-    "url": "https://www.themoviedb.org/movie/1786247"
   }
 ]
